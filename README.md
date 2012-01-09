@@ -1,7 +1,8 @@
-H4111
+# Hexanome H4111
 
-Dossier `spie` sur Google Docs.
+Folder `spie` on Google Docs.
 
 Inspiration: https://github.com/nical/PLD
 
 Ok redmine is now fully operational.
+
