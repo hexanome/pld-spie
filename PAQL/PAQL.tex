@@ -37,17 +37,54 @@ Ce plan s'applique à l'ensemble du projet. Néanmoins, afin d'en simplifier la 
 
 \paragraph{Niveau outils :} Outils nous permettant de faciliter l'application de notre processus de qualité. Nous allons aussi définir les différentes pratiques s'appliquant à ses outils pour garantir l'éfficacité de leur usage.
 
-\section{Responsabilités de réalisation et suivi du plan}
+\section{Responsabilités au sein de l'équipe}
 
-Répartition des responsabilités de réalisation au sein du groupe de travail
+Résponsable qualité : Quentin Calvez \\
+Sous-responsable qualité : Jan Keromes
 
-\section{Documents Applicables et Documents de références }
+Ils ont pour rôle la réalisation du plan s'assurance qualité, et le suivi de son application tout au long du projet.
 
-Description de la documentation 
+\section{Documents Applicables et Documents de références}
 
-\subsection{Documents Applicables}
+\subsection{Documents Livrables}
 
-Documents générés par le groupe de travail.
+Liste des documents livrables du projet. Pourra être amenée à changer légérement au cours de celui-ci.
+
+\paragraph*{Phase d'initialisation}
+
+\begin{itemize}
+\item Dossier d’initialisation
+\item Plan d’assurance qualité
+\end{itemize}
+
+
+\paragraph*{Phase d'expression des besoins}
+\begin{itemize}
+
+\item Etude de l'existant
+\item Rapport de synthèse et de benchmarking
+\item Dossier d’expression des besoins
+\item Scénarios envisagés :
+
+\begin{itemize}
+\item Rapport solution 1 : Développement spécifique
+\item Rapport solution 2 : ERP 
+\end{itemize}
+
+\item Dossier de modélisation et de configuration standard
+
+\end{itemize}
+
+
+\paragraph*{Evaluation}
+\begin{itemize}
+\item Dossier de choix 
+\end{itemize}
+
+\paragraph*{Restitiution} 
+\begin{itemize}
+\item Dossier Bilan
+\end{itemize}
 
 \subsection{Documents de Référence}
 
@@ -76,7 +113,7 @@ Pour contrôler la qualité des documents produits, nous utilisons des moyens de
 \paragraph*{Tracabilité du document :} Afin de faciliter l’établissement d’un suivi qualité et d’un état des lieux du projet.
 \paragraph*{Respect du guide de style instauré au sein du groupe de travail}
 
-\section{Documentation Qualité du projet}
+\section{Documentation Qualtité du projet}
 
 Description des différents documents de mise en place et de suivi du système qualité
 
@@ -92,27 +129,28 @@ Description des actions d'application du SQ / PAQ menées au sein du projet
 
 \section{Planification et suivi du projet }
 
-La planification prévisionnelle a été effectuée dans le dossier d'initialisation.
-
-Au fil de l'avancement, les tâches sont affectées aux membres de l'équipe projet grâce à l'outil de gestion de projet Redmine, et un email est envoyé aux personnes concernées. Le suivi des tâches est intégré dans Redmine, et il est de la responsabilité des membres de l'équipe de mettre à jour leurs tâches (temps passé, avancement, remarques, etc.) sur l'outil. Un accès pourra être fourni à la MOA dans un but de transparence et de facilité de suivi.
-
-La mesure de l'avancement se fait d'une part par les experts techniques, qui indiquent leur avancement sur la plateforme de gestion de projet, et d'autre part par le responsable qualité, qui pourra juger de l'avancement des revues de documents.
-
-Les réunions de projet se font une fois par séance de travail, et un compte rendu consultable par la MOA sera placée sur le Wiki de l'outil de gestion de projet. À la fin de chaque réunion, la prochaine est planifiée. Les compte rendu de réunion sont rédigé de manière à résumer tout ce qu'il s'est dit pendant la réunion, sans synthèse, de manière à refléter de manière fidèle le dialogue de l'équipe.
-
-En ce qui concerne le suivi prévisionnel, le chef de projet dresse après chaque session de travail un indicateur de l'état du projet, visible sur le tableau de bord de suivi du projet. L'outil de gestion de projet permet aussi d'avoir des statistiques globales sur le projet, incluant le nombre d'heure passé par acteur sur chaque catégorie de tâche, permettant d'avoir une vue d'ensemble du projet.
 
 \part{Gestion de la documentation :}
 
-Cette section présentera les outils et les processus de la gestion de la documentation dans ce projet. La documentation d'un projet est essentielle. C'est le support pour la communication et le dialogue entre la maîtrise d'oeuvre (MoE) et la maîtrise d'ouvrage (MoA). La documentation permet également la pérennité des informations au sein du projet, tout au long de son cycle de vie.
-
 \section{Identification de la documentation}
 
-Dans le cadre de ce projet, nous mettons en place une politique de référencement de la documentation. Chaque document livrable est identifié par un nom unique (voir liste des livrables). De plus, dans un but de contrôle et de traçabilité, nous utiliserons le logiciel de gestion de version Git, permettant de conserver l'historique de toutes les modifications apportées sur chaque document, et si besoin de pouvoir revenir en arrière dans le temps sur tout ou partie d'un document. Pour garantir le suivi de l'évolution des documents, la bonne façon de faire est de procéder par petites modifications incrémentales facilement identifiables. L'état d'un document dans le temps est alors identifiable par un numéro de révision associé au dernier changement effectué. Ainsi, il est possible d'identifier un document par son nom et son état dans le temps de manière précise et systématique.
+Description de la politique de référencement de la documentation appliquée dans le cadre du projet.
+
+Chaque document est identifié par son nom, qui est unique (voir liste des livrables). De plus, dans un but de contrôle
+et de traçabilité, nous utiliserons le système de versionnement Git, permettant de conserver l'historique de toutes
+les modifications apportées sur chaque document, et si besoin de pouvoir revenir en arrière dans le temps sur tout ou
+partie d'un document. Pour garantir une bonne traçabilité de l'évolution des documents, il faut procéder par petites
+modifications incrémentales facilement identifiables.
 
 \section{Sauvegarde et Archivage}
 
-Afin d'assurer une traçabilité constante, toutes les modifications sont conservées par le système de versionnement Git. De plus, afin d'éviter toute perte de données, l'information est dupliquée: en effet, Git permet à chaque membre du projet d'avoir son propre clone du repository central, et de le synchroniser au fur et à mesure de son avancement. Ceci permet, en cas de panne majeur, de ne perdre aucune donnée. Ainsi, le travail sur tous les documents est systématiquement sauvegardé et archivé, assurant le contrôle de l'évolution des documents.
+Description de la politique de Sauvegarde, et d'archivage de la documentation.
+
+Afin d'assurer une traçabilité constante, toutes les modifications sont conservées par le système de versionnement
+Git. De plus, afin d'éviter toute perte de données, l'information est dupliquée: en effet, Git permet à chaque membre
+du projet d'avoir son propre clone du repository central, et de le synchroniser au fur et à mesure de son avancement.
+Ceci permet, en cas de panne majeur, de ne perdre aucune donnée. Ainsi, le travail sur tous les documents est
+systématiquement sauvegardé et archivé.
 
 \part{Contrôle des fournisseurs :}
 
@@ -124,21 +162,6 @@ Listings des documents et présentation de ces derniers, concernant la liaison a
 
 \section{Lexique}
 
-\begin{itemize}
-\item Git: Logiciel de gestion de version décentralisé qui permet de stocker un ensemble de fichiers en conservant la chronologie de toutes les modifications qui ont été effectuées dessus.
-\end{itemize}
-
-\section{Abréviations}
-
-\begin{itemize}
-\item CdP: Chef de Projet
-\item RQ: Responsable Qualité
-\item SPIE: Entreprise concernée par la présente étude de cas
-\item PAQ: Plan d'Assurance Qualité
-\item MoA: Maîtrise d'Ouvrage
-\item MoE: Maîtrise d'Oeuvre
-\item SI: Système d'Information
-\end{itemize}
-
+\section{Abréviations} 
 
 \end{document}
