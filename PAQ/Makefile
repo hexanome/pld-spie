@@ -1,8 +1,8 @@
 
 all: PAQ.pdf
 
-PAQL.pdf: PAQ.tex
+PAQ.pdf: PAQ.tex
 	pdflatex PAQ.tex
-	mv PAQL.pdf ../livrables/paq.pdf
+	mv PAQ.pdf ../livrables/paq.pdf
 
 .PHONY: all

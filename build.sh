@@ -2,4 +2,4 @@
 
 mkdir livrables
 
-cd PAQL && make
+cd PAQ && make
