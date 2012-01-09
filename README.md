@@ -4,4 +4,4 @@ Dossier `spie` sur Google Docs.
 
 Inspiration: https://github.com/nical/PLD
 
-Test redmine 4.
+Ok redmine is now fully operational.
