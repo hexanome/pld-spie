@@ -1,0 +1,179 @@
+\documentclass[a4paper, 18pt]{article}
+
+% Faire des marges un peu moins large que celles par défaut
+\usepackage[top=20mm, bottom=20mm, left=18mm, right=18mm]{geometry}
+\usepackage{ucs}
+\usepackage[utf8x]{inputenc} % Pour l'encodage 
+% Reconnaitre les caratères accentués dans le source.
+\usepackage[T1]{fontenc} 
+% Meilleurs polices
+%\usepackage{concmath}
+\usepackage{lmodern}
+\usepackage[francais]{babel}
+% Insertion d'images
+\usepackage{graphicx}
+
+\title{PAQL du PLD SPIE}
+
+\begin{document}
+
+\part{Objet et caractéristiques du plan d'assurance et contrôle qualité :}
+
+\section{Objectifs du plan}
+
+Ce projet porte sur la refonte du système d'information d'une entreprise existante, SPIE, afin de mieux répondre à leurs exigences. Cela va impliquer une étude approfondie de l'existant et des besoins de l'entreprise, ainsi qu'une évaluation des différentes solutions techniques qui s'offrent à nous, à savoir l'utilisation d'un progiciel existant, ou alors le développement d'une solution spécifique.
+
+Un premier objectif du plan d'assurance qualité est d'assurer le bon déroulement ainsi que la cohérence de notre démarche de travail.
+
+Le projet va nous amèner à générer quantité importante de livrables, certains à l'attention du client et d'autres nécéssaires à assurer la cohérence de notre prestation, dont nous nous devons d'assurer la qualité. Le second objectif de ce plan sera donc de spécifier précisement les méthodes que nous prévoyons d'appliquer pour garantir la qualité de l'ensemble de nos livrables.
+
+\section{Domaine d'Application}
+
+Ce plan s'applique à l'ensemble du projet. Néanmoins, afin d'en simplifier la compréhension, on peut distinguer trois sous-domaines d'application :
+
+\paragraph{Niveau organisationnel :} Afin de garantir l'application des processus d'assurance qualité au sein du groupe de travail, il est nécéssaire de mettre en place des règles et consignes précises définissant l'organisation de l'équipe.
+
+\paragraph{Niveau production :} Définition des rôles de chacun et des méthodes et ``bonnes pratiques'' à appliquer au quotidien lors de la production de documents relatifs au projet.
+
+\paragraph{Niveau outils :} Outils nous permettant de faciliter l'application de notre processus de qualité. Nous allons aussi définir les différentes pratiques s'appliquant à ses outils pour garantir l'éfficacité de leur usage.
+
+\section{Responsabilités au sein de l'équipe}
+
+L'équipe de projet a pour rôle la réalisation du plan d'assurance qualité, ainsi le suivi de son application tout au long du projet.
+
+\paragraph{Chef de projet : Mathieu Coquet} Le rôle du CdP est de valider la PAQ, de l'appliquer et de le faire respecter. C'est lui qui arrête les décisions et qui fait la validation chaque document avant livraison.
+
+\paragraph{Résponsables qualité : Quentin Calvez, Jan Keromnes} Le rôle des RQ est de rédiger et d'améliorer le PAQ, ainsi que de garantir son application.
+
+\paragraph{Experts, Consultants} Leur rôle est d'appliquer le PAQ, et d'apporter les corrections nécessaires lors d'un écart pour revenir vers une conformité avec la PAQ.
+
+\section{Documents Applicables et Documents de références}
+
+\subsection{Documents Livrables}
+
+Liste des documents livrables du projet. Pourra être amenée à changer légérement au cours de celui-ci.
+
+\paragraph*{Phase d'initialisation}
+
+\begin{itemize}
+\item Dossier d’initialisation
+\item Plan d’assurance qualité
+\end{itemize}
+
+
+\paragraph*{Phase d'expression des besoins}
+\begin{itemize}
+
+\item Etude de l'existant
+\item Rapport de synthèse et de benchmarking
+\item Dossier d’expression des besoins
+\item Scénarios envisagés :
+
+\begin{itemize}
+\item Rapport solution 1 : Développement spécifique
+\item Rapport solution 2 : ERP 
+\end{itemize}
+
+\item Dossier de modélisation et de configuration standard
+
+\end{itemize}
+
+
+\paragraph*{Evaluation}
+\begin{itemize}
+\item Dossier de choix 
+\end{itemize}
+
+\paragraph*{Restitution} 
+\begin{itemize}
+\item Dossier Bilan
+\end{itemize}
+
+\section{Critères et procédures d'évolution du PAQ}
+
+Description des critères d'évolution du PAQ, et des procédures à suivre dans le but de faire évoluer ce dernier en prévenant l'entrée de ``mauvaises'' pratiques.
+
+\section{Critères et procédures de dérogation au PAQ}
+
+Description des cas ``limités'' de dérogation au PAQ, et des conséquences liées.
+
+%\part{Système qualité mis en œuvre pour le projet :}
+%
+%\section{Objectifs et Engagements qualité pour le projet}
+%
+%Descriptions des objectifs du SQ mis en action pour le projet.
+%
+%\section{Mesure de la Qualité}
+%
+%Description des moyens de mesure (quantification) de la qualité dans le cadre de l'étude, et du projet.
+%
+%\section{Documentation Qualtité du projet}
+%
+%Description des différents documents de mise en place et de suivi du système qualité
+%
+%\section{Activités d'assurance et de contrôle de la qualité }
+%
+%Description des actions d'application du SQ / PAQ menées au sein du projet 
+
+% Il faudra voir où on met ce truc.
+\section{Activités d'assurance et de contrôle de la qualité}
+
+
+
+\part{Conduite du projet}
+
+\section{Organisation du Projet}
+
+TODO.
+
+\section{Outils de mesure de la Qualité mis en oeuvre pour le projet}
+
+Pour contrôler la qualité des documents produits, nous utilisons des moyens de mesure pour quantifier la qualité dans le cadre de ce projet. L'évaluation de la qualité de nos livrables d'effectuera de la manière suivante :
+
+\paragraph*{Qualité syntaxique / orthographique :} Importance de la qualité rédactionnelle et de la forme des documents.
+\paragraph*{Qualité et pertinence du contenu par rapport à la démarche globale :} Nous nous devons d’assurer une cohérence entre nos livrables avec un accent sur le fond des documents.
+\paragraph*{Tracabilité du document :} Afin de faciliter l’établissement d’un suivi qualité et d’un état des lieux du projet.
+\paragraph*{Respect du guide de style instauré au sein du groupe de travail}
+
+<<<<<<< HEAD
+\section{Documentation qualité du projet}
+=======
+\section{Documentation Qualité du projet}
+>>>>>>> d1b667d5d5462032be15a383444bf4ae2e821fdd
+
+
+\part{Gestion de la documentation}
+
+\section{Identification de la documentation}
+
+Description de la politique de référencement de la documentation appliquée dans le cadre du projet.
+
+Chaque document est identifié par son nom, qui est unique (voir liste des livrables). De plus, dans un but de contrôle
+et de traçabilité, nous utiliserons le système de versionnement Git, permettant de conserver l'historique de toutes
+les modifications apportées sur chaque document, et si besoin de pouvoir revenir en arrière dans le temps sur tout ou
+partie d'un document. Pour garantir une bonne traçabilité de l'évolution des documents, il faut procéder par petites
+modifications incrémentales facilement identifiables.
+
+\section{Sauvegarde et Archivage}
+
+Description de la politique de Sauvegarde, et d'archivage de la documentation.
+
+Afin d'assurer une traçabilité constante, toutes les modifications sont conservées par le système de versionnement
+Git. De plus, afin d'éviter toute perte de données, l'information est dupliquée: en effet, Git permet à chaque membre
+du projet d'avoir son propre clone du dépot central, et de le synchroniser au fur et à mesure de son avancement.
+Ceci permet, en cas de panne majeur, de ne perdre aucune donnée. Ainsi, le travail sur tous les documents est
+systématiquement sauvegardé et archivé.
+
+\part{Contrôle des fournisseurs}
+
+\section{Documents de liaison}
+
+Listings des documents et présentation de ces derniers, concernant la liaison avec les fournisseurs (contrats, closes de partenariat...)
+
+\part{Terminologie}
+
+\section{Lexique}
+
+\section{Abréviations} 
+
+\end{document}
