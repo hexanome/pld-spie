@@ -248,26 +248,45 @@ Voici un modèle d'activité synthétique pour la gestion des contrats de mainte
 \subsection{Modèle Conceptuel des traitement} 
 Vis à vis des documents fournis par SPIE, nous disposons déjà de descriptions formalisées des processus métier dans le cadre de la gestion des contrats de maintenance chez SPIE. Il nous semble donc inutile de retraduire ces processus déjà assez précis.
 
+Il est cependant possible d'éffectuer des critiques sur la manière dont les processus s'imbriquent :
+
+\begin{itemize}
+\item Le reporting du technicien de maintenance n'est, selon nous, pas assez détaillé. En effet, il serait fortement intéressant de plus faire participer le techniciens à la rédaction, brève bien entendu, d'un rapport d'intervention qui serait concilié au sein du SI afin que son diagnostic puisse être réutilisé. Dans la même idée il serait intéressant d'affilier un technicien (ou groupe de technicien) toujours au même chantier de maintenance. Cette tactique permet ainsi au technicien de connaître parfaitement son domaine d'intervention et ainsi de minimiser le coût humain.
+\item Enrichir le SI de rapports d'interventions permettrai de capitaliser et de gagner de l'expérience dans le domaine de l'expertise, un des domaines phare de SPIE.
+\item Formaliser les éventuels problèmes juridiques. Un contrat avorte souvent du fait de l'incompréhension entre la MOA et la MOE. Dans les diagrammes de processus qui nous sont fournis il pourrait être pertinent d'ajouter un processus gestion des contentieux. De même, ce processus pourrait permettre d'enrichir le SI en expérience sur le déroulement des contrats.
+
+\end{itemize}
+
+
 \subsection{Diagramme de cas d'utilisation}
-Il est cependant utile d'établir des diagrammes de cas d'utilisation afin de définir avec plus de précisions les notions présentes dans le modèle d'activité.
+Il est cependant utile d'établir des diagrammes de cas d'utilisation afin de définir avec plus de précisions les notions présentes dans le modèle d'activité. Voici donc les diagrammes de cas d'utilisation correspondant à chacunes des étapes clefs de la gestion des contrats de maintenance chez SPIE.
 
+\begin {center}
+\includegraphics[width=\textwidth]{png/DCUAppelOffre.png}
+\end {center}
 
+\begin {center}
+\includegraphics[width=\textwidth]{png/DCUGererCommande.png}
+\end {center}
+
+\begin {center}
+\includegraphics[width=\textwidth]{png/DCUGererActiMaintenance.png}
+\end {center}
+
+\begin {center}
+\includegraphics[width=\textwidth]{png/DCUGererPrestationService.png}
+\end {center}
+
+\begin {center}
+\includegraphics[width=\textwidth]{png/DCUGererEvolutionContrat.png}
+\end {center}
+
+\begin {center}
+\includegraphics[width=\textwidth]{png/DCUGererFacturation.png}
+\end {center}
 
 
 \section{Définition des axes de progrès}
 
-
-
-
-
-\subsection{Dossier a compléter pendant les séances futures}
-
-Il sera nécessaire de découper cette étude selon les différents niveaux de l’entreprise (stratégique, fonctionnel, organisationnel, technologique).
-
-\begin{itemize}
-\item Le Benchmarking : souvent appelée phase de référenciation. Il s’agira d’analyser les méthodes de travail d’autres structures afin de s’inspirer des meilleures solutions pour établir notre solution chez SPIE.
-\item L’élaboration de la cible fonctionnelle : on modélise le système actuel de l’entreprise en formalisant les processus, l’organisation, les objets métiers. Production de diagrammes descriptifs de type MCD dans des langages formalisés (UML ou Merise par exemple).
-\item L’identification des axes de progrès (ou thèmes de progrès) qui vont faire évoluer le système existant. On séparera ainsi les améliorations à apporter à chaque couche de l’entreprise : aux niveaux stratégique, fonctionnel, organisationnel et technologique.
-\item Le dossier d’expression des besoins est destiné au client et sera réaliser en collaboration avec lui.
-\end{itemize}
+Les processus détaillés dans les documents annexes fonctionnent le plus souvent en parallèle et sur des applications informatiques différentes. Il en résulte que souvent les différentes unités organisationnelles ne sont pas en accord sur certains points. Le but principal de cette étude est donc de regrouper l'ensemble des procédures de gestion des contrats de maintenance au sein d'un même système d'information ou chaque unité organisationnelle aurait son rôle.
 
