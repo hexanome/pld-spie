@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.1415926-1.40.10 (TeX Live 2009/Debian) (format=pdflatex 2012.1.5)  23 JAN 2012 08:19
+This is pdfTeX, Version 3.1415926-1.40.10 (TeX Live 2009/Debian) (format=pdflatex 2012.1.5)  23 JAN 2012 08:20
 entering extended mode
  %&-line parsing enabled.
 **Expression_Besoins_Final.tex
@@ -480,60 +480,67 @@ l.toc)
 
  [1]
 (./Expression_Besoins.tex
+<png/TerritoireSPIE.jpg, id=14, 567.11874pt x 401.5pt>
+File: png/TerritoireSPIE.jpg Graphic file (type jpg)
 
-LaTeX Warning: File `png/TerritoireSPIE.jpg' not found on input line 36.
+<use png/TerritoireSPIE.jpg> [2] [3 <./png/TerritoireSPIE.jpg>]
+<png/DiagrammeOrganisationnelSPIE.png, id=24, 1121.18875pt x 280.04625pt>
+File: png/DiagrammeOrganisationnelSPIE.png Graphic file (type png)
 
+<use png/DiagrammeOrganisationnelSPIE.png>
+<png/SimplificationProcessusDeMaintenanceSPIE.png, id=26, 2003.485pt x 184.69pt
+>
+File: png/SimplificationProcessusDeMaintenanceSPIE.png Graphic file (type png)
+ <use png/SimplificationProcessusDeMaintenanceSPIE.png> [4 <./png/DiagrammeOrga
+nisationnelSPIE.png>] [5 <./png/SimplificationProcessusDeMaintenanceSPIE.png>] 
+[6] [7] <png/DiagrammeModeleActivite.png, id=42, 1014.79124pt x 628.3475pt>
+File: png/DiagrammeModeleActivite.png Graphic file (type png)
 
-! Package pdftex.def Error: File `png/TerritoireSPIE.jpg' not found.
+<use png/DiagrammeModeleActivite.png> [8]
+<png/DCUAppelOffre.png, id=46, 702.625pt x 557.08125pt>
+File: png/DCUAppelOffre.png Graphic file (type png)
 
-See the pdftex.def package documentation for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.36 ...[width=\textwidth]{png/TerritoireSPIE.jpg}
-                                                  
-? 
-! Interruption.
-\GenericError  ...                                
-                                                  \endgroup 
-l.36 ...[width=\textwidth]{png/TerritoireSPIE.jpg}
-                                                  
-? 
-LaTeX Font Info:    Try loading font information for T1+lmtt on input line 36.
-(/usr/share/texmf/tex/latex/lm/t1lmtt.fd
-File: t1lmtt.fd 2009/10/30 v1.6 Font defs for Latin Modern
-) [2] [3]
+<use png/DCUAppelOffre.png> [9 <./png/DiagrammeModeleActivite.png>]
+<png/DCUGererCommande.png, id=51, 697.60625pt x 557.08125pt>
+File: png/DCUGererCommande.png Graphic file (type png)
 
-LaTeX Warning: File `png/DiagrammeOrganisationnelSPIE.png' not found on input l
-ine 84.
+<use png/DCUGererCommande.png> [10 <./png/DCUAppelOffre.png>]
+<png/DCUGererActiMaintenance.png, id=56, 692.5875pt x 540.0175pt>
+File: png/DCUGererActiMaintenance.png Graphic file (type png)
 
+<use png/DCUGererActiMaintenance.png> [11 <./png/DCUGererCommande.png>]
+<png/DCUGererPrestationService.png, id=61, 692.5875pt x 605.26125pt>
+File: png/DCUGererPrestationService.png Graphic file (type png)
 
-! Package pdftex.def Error: File `png/DiagrammeOrganisationnelSPIE.png' not fou
-nd.
+<use png/DCUGererPrestationService.png> [12 <./png/DCUGererActiMaintenance.png>
+] <png/DCUGererEvolutionContrat.png, id=67, 692.5875pt x 469.755pt>
+File: png/DCUGererEvolutionContrat.png Graphic file (type png)
 
-See the pdftex.def package documentation for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.84 ...dth]{png/DiagrammeOrganisationnelSPIE.png}
-                                                  
-? 
-! Emergency stop.
- ...                                              
-                                                  
-l.84 ...dth]{png/DiagrammeOrganisationnelSPIE.png}
-                                                  
-Using draft setting for this image.
-Try typing  <return>  to proceed.
-If that doesn't work, type  X <return>  to quit.
+<use png/DCUGererEvolutionContrat.png> [13 <./png/DCUGererPrestationService.png
+>] <png/DCUGererFacturation.png, id=72, 701.62125pt x 540.0175pt>
+File: png/DCUGererFacturation.png Graphic file (type png)
 
- 
+<use png/DCUGererFacturation.png> [14 <./png/DCUGererEvolutionContrat.png> <./p
+ng/DCUGererFacturation.png>]) [15] (./Expression_Besoins_Final.aux) ) 
 Here is how much of TeX's memory you used:
- 2612 strings out of 495061
- 33976 string characters out of 1182622
- 89128 words of memory out of 3000000
- 5744 multiletter control sequences out of 15000+50000
- 48620 words of font info for 38 fonts, out of 3000000 for 9000
+ 2624 strings out of 495061
+ 34909 string characters out of 1182622
+ 91128 words of memory out of 3000000
+ 5751 multiletter control sequences out of 15000+50000
+ 48301 words of font info for 37 fonts, out of 3000000 for 9000
  28 hyphenation exceptions out of 8191
- 25i,5n,24p,555b,237s stack positions out of 5000i,500n,10000p,200000b,50000s
-!  ==> Fatal error occurred, no output PDF file produced!
+ 25i,5n,24p,1248b,193s stack positions out of 5000i,500n,10000p,200000b,50000s
+{/usr/shar
+e/texmf/fonts/enc/dvips/lm/lm-ec.enc}</usr/share/texmf-texlive/fonts/type1/publ
+ic/eurosym/feymr10.pfb></usr/share/texmf/fonts/type1/public/lm/lmbx10.pfb></usr
+/share/texmf/fonts/type1/public/lm/lmbx12.pfb></usr/share/texmf/fonts/type1/pub
+lic/lm/lmcsc10.pfb></usr/share/texmf/fonts/type1/public/lm/lmr10.pfb></usr/shar
+e/texmf/fonts/type1/public/lm/lmr12.pfb></usr/share/texmf/fonts/type1/public/lm
+/lmr17.pfb></usr/share/texmf/fonts/type1/public/lm/lmr7.pfb></usr/share/texmf/f
+onts/type1/public/lm/lmr8.pfb>
+Output written on Expression_Besoins_Final.pdf (16 pages, 701481 bytes).
+PDF statistics:
+ 111 PDF objects out of 1000 (max. 8388607)
+ 0 named destinations out of 1000 (max. 500000)
+ 51 words of extra memory for PDF output out of 10000 (max. 10000000)
+
