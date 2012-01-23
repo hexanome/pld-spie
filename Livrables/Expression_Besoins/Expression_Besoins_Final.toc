@@ -1,16 +1,22 @@
 \select@language {french}
 \contentsline {part}{I\hspace {1em}Expression des besoins}{2}
-\contentsline {section}{\numberline {1}Activit\IeC {\'e}s de SPIE}{2}
-\contentsline {paragraph}{Les intervenants}{3}
-\contentsline {paragraph}{Le contrat}{3}
-\contentsline {section}{\numberline {2}Offre et revue d\IeC {\textquoteright }offre}{4}
-\contentsline {section}{\numberline {3}N\IeC {\'e}gociation client}{4}
-\contentsline {section}{\numberline {4}Revue de commande}{4}
-\contentsline {section}{\numberline {5}Lancement des prestations de service et travaux}{5}
-\contentsline {section}{\numberline {6}R\IeC {\'e}alisation des prestations de maintenance}{5}
-\contentsline {section}{\numberline {7}\IeC {\'E}volution du contrat}{5}
-\contentsline {section}{\numberline {8}Solde de l\IeC {\textquoteright }affaire et du contrat}{6}
-\contentsline {section}{\numberline {9}Fin de processus affaire maintenance et service}{6}
-\contentsline {subsection}{\numberline {9.1}Application utilis\IeC {\'e} chez SPIE}{6}
-\contentsline {paragraph}{Titre \IeC {\`a} mettre}{6}
-\contentsline {subsection}{\numberline {9.2}Dossier a compl\IeC {\'e}ter pendant les s\IeC {\'e}ances futures}{6}
+\contentsline {section}{\numberline {1}Etude de l'existant}{2}
+\contentsline {subsection}{\numberline {1.1}Activit\IeC {\'e}s de SPIE}{2}
+\contentsline {paragraph}{Les intervenants}{4}
+\contentsline {paragraph}{Le contrat}{4}
+\contentsline {subsection}{\numberline {1.2}Offre et revue d\IeC {\textquoteright }offre}{5}
+\contentsline {subsection}{\numberline {1.3}N\IeC {\'e}gociation client}{6}
+\contentsline {subsection}{\numberline {1.4}Revue de commande}{6}
+\contentsline {subsection}{\numberline {1.5}Lancement des prestations de service et travaux}{6}
+\contentsline {subsection}{\numberline {1.6}R\IeC {\'e}alisation des prestations de maintenance}{7}
+\contentsline {subsection}{\numberline {1.7}\IeC {\'E}volution du contrat}{7}
+\contentsline {subsection}{\numberline {1.8}Solde de l\IeC {\textquoteright }affaire et du contrat}{7}
+\contentsline {subsection}{\numberline {1.9}Fin de processus affaire maintenance et service}{7}
+\contentsline {subsection}{\numberline {1.10}Application utilis\IeC {\'e} chez SPIE}{7}
+\contentsline {paragraph}{Titre \IeC {\`a} mettre}{7}
+\contentsline {section}{\numberline {2}Benchmarking}{8}
+\contentsline {section}{\numberline {3}Elaboration de la cible fonctionnelle}{8}
+\contentsline {subsection}{\numberline {3.1}Definition du Modele d'Activit\IeC {\'e}}{8}
+\contentsline {subsection}{\numberline {3.2}Mod\IeC {\`e}le Conceptuel des traitement}{9}
+\contentsline {subsection}{\numberline {3.3}Diagramme de cas d'utilisation}{9}
+\contentsline {section}{\numberline {4}D\IeC {\'e}finition des axes de progr\IeC {\`e}s}{15}
