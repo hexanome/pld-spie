@@ -386,11 +386,28 @@ Il est cependant utile d'établir des diagrammes de cas d'utilisation afin de d�
 
 \section{Définition des axes de progrès}
 
-Les processus détaillés dans les documents annexes fonctionnent le plus souvent en parallèle et sur des applications informatiques différentes. Il en résulte que souvent les différentes unités organisationnelles ne sont pas en accord sur certains points. Le but principal de cette étude est donc de regrouper l'ensemble des procédures de gestion des contrats de maintenance au sein d'un même système d'information ou chaque unité organisationnelle aurait son rôle. Cette interface unique va ainsi permettre de créer un référentiel commun de travail entre toutes les équipes qui gravitent autour du domaine d'expertise maintenance.
+Les processus détaillés dans les documents annexes fonctionnent le plus souvent en parallèle et sur des applications informatiques différentes. Il en résulte que souvent, les différentes unités organisationnelles ne sont pas en accord sur certains points. Le but principal de cette étude est donc de regrouper l'ensemble des procédures de gestion des contrats de maintenance au sein d'un même système d'information ou chaque unité organisationnelle aurait son rôle. Cette interface unique va ainsi permettre de créer un référentiel commun de travail entre toutes les équipes qui gravitent autour du domaine d'expertise maintenance. 
 
-Ce que nous pensons qu'il est important d'améliorer est donc sans nul doute la création de la base de connaissance permettant de regrouper les expériences de chaque acteur du projet au sein d'une base de donnée. Ce recensement des expériences sera donc effectué à l'issue de chaque intervention d'un technicien (pour le technicien) et à l'issue de chaque phase du projet (pour le RA et le RAM).
+D'autres part, si l'on regarde plus précisément le processus global de gestion des contrats de maintenance, ce qu'il est important d'améliorer est sans nul doute le fait de pouvoir réutiliser l'expérience acquise par SPIE lors de la réalisation d'anciens contrats de maintenance. Cette expérience doit pouvoir être réutilisée dans toute les étapes du cycle de vie du contrat de maintenance, de la réponse à l'appel d'offre jusqu'a la rélisation technique à proprement parlé.
+\subsection {Les domaines d'application}
+\begin{itemize}
+\item La gestion de l'appel d'offre :
+\item La mobilisation des ressources humaines :
+\item La réalisation de la prestation de maintenance :
+\end{itemize}
+
+\subsection {concepts généraux à mettre en place}
+\begin{itemize}
+\item Base de données : vis à vis de la récupération des informations liées à chaque contrat il s'agit de mettre en place une base de données qui permette de faire la jointure entre le contrat en lui même et les informations qui le concernent à savoir pour chaque processus des notes de bon/mauvais déroulement, des indications d'éventuels surcoûts, des informations concernant la relation avec le client ou encore sur le déroulement des opérations de maintenance à proprement parlé. 
+\item Mot clefs : à l'image du réseau social twitter il sera nécessaire d'adjoindre des "tags" ou mot clefs à chaque contrat de maintenance. Il sera donc possible ensuite de rechercher des contrats de maintenance par mots clefs.
+\item Moteur de recommandations : lors de la création d'un nouveau contrat de maintenance on lui adjoint des mots clefs. Afin d'aider les RA, RAM et techniciens dans le suivi de ce contrat on pourra demander l'affichage des contrats de maintenance les plus proches de celui que l'on est en train de créer. Cette recommandation sera donc une aide précieuse dans l'élaboration du chiffrage du contrat par exemple. Cette recommandation peut de même intervenir auprès du technicien lorsqu'il se rendra sur le site pour effectuer un réparation. Il lui sera en effet conseillé d'emmener tel ou tel outils spécifique ou encore de faire attention à tel ou tel paramètre en particulier.
+\end{itemize}
+L'idée sous jacente à la mise en place d'un tel système est de pouvoir capitaliser sur chaque contrat de maintenance et ainsi de pouvoir réutiliser les expériences passée afin de ne pas recommettre les mêmes erreurs ou encore de reproduire les pratiques qui ont menées au succés du contrat de maintenance. Ainsi, plus le système sera fourni en informations et mots clefs plus son utilité se fera sentir. Ce procédé permet aussi de \og poser les impressions sur le papier \fg et ainsi de pouvoir garder l'information de manière claire et précise.
+
+
 Voici les informations qu'il faudra fournir à la base de donnée pour chaque acteur : 
 \begin{itemize}
+\item Le Responsable d'Affaire : A la création du contrat de maintenance dans la base de données il sera chargé (son groupe de travail) de remplir les informations et mots clefs directement liées à l'initialisation du contrat.
 \item Le Technicien : Avant l'intervention : se renseigner via la base de connaissances sur les spécificités de l'intervention qu'il va mener. En se renseignant via l'interface Web il pourra ainsi éventuellement se rendre compte qu'un outil spécifique est nécessaire ou que ce type d'opération va prendre plus de temps que prévu.
 Après l'intervention : Ecrire son bilan d'intervention via la base de connaissance. Ce bilan permettra alors de renseigner les prochains intervenants sur ce type d'intervention. Ceci permet donc d'enrichir automatiquement la base de donnée. 
 \end{itemize}
