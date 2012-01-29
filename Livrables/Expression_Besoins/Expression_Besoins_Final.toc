@@ -4,7 +4,7 @@
 \contentsline {subsection}{\numberline {1.1}Activit\IeC {\'e}s de SPIE}{2}
 \contentsline {paragraph}{Les intervenants}{4}
 \contentsline {paragraph}{Le contrat}{4}
-\contentsline {subsection}{\numberline {1.2}Les Processus de gestion de contrat de maintenance}{5}
+\contentsline {subsection}{\numberline {1.2}Processus de gestion de contrat de maintenance}{5}
 \contentsline {subsubsection}{\numberline {1.2.1}Offre et revue d\IeC {\textquoteright }offre}{5}
 \contentsline {subsubsection}{\numberline {1.2.2}N\IeC {\'e}gociation client}{6}
 \contentsline {subsubsection}{\numberline {1.2.3}Revue de commande}{6}
@@ -27,3 +27,6 @@
 \contentsline {subsection}{\numberline {3.2}Mod\IeC {\`e}le Conceptuel des traitement}{11}
 \contentsline {subsection}{\numberline {3.3}Diagramme de cas d'utilisation de l'existant}{11}
 \contentsline {section}{\numberline {4}D\IeC {\'e}finition des axes de progr\IeC {\`e}s}{17}
+\contentsline {subsection}{\numberline {4.1}Les domaines d'application}{17}
+\contentsline {subsection}{\numberline {4.2}concepts g\IeC {\'e}n\IeC {\'e}raux \IeC {\`a} mettre en place}{17}
+\contentsline {section}{\numberline {5}Diagrammes de processus contenant les axes d'am\IeC {\'e}lioration}{18}

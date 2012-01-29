@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.1415926-2.3-1.40.12 (TeX Live 2011) (format=pdflatex 2012.1.16)  29 JAN 2012 14:06
+This is pdfTeX, Version 3.1415926-2.3-1.40.12 (TeX Live 2011) (format=pdflatex 2012.1.16)  29 JAN 2012 15:28
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -650,8 +650,8 @@ File: png/DCUGererFacturation.png Graphic file (type png)
 <use png/DCUGererFacturation.png>
 Package pdftex.def Info: png/DCUGererFacturation.png used on input line 383.
 (pdftex.def)             Requested size: 483.69687pt x 372.29935pt.
- [16 <./png/DCUGererEvolutionContrat.png> <./png/DCUGererFacturation.png>]) [17
-] (./Expression_Besoins_Final.aux) ) 
+ [16 <./png/DCUGererEvolutionContrat.png> <./png/DCUGererFacturation.png>] [17]
+) [18] (./Expression_Besoins_Final.aux) ) 
 Here is how much of TeX's memory you used:
  4843 strings out of 493633
  65122 string characters out of 3143377
@@ -660,20 +660,20 @@ Here is how much of TeX's memory you used:
  48301 words of font info for 37 fonts, out of 3000000 for 9000
  831 hyphenation exceptions out of 8191
  37i,5n,24p,1263b,562s stack positions out of 5000i,500n,10000p,200000b,50000s
-{/usr/local/texlive/2011/texmf-dist/fonts/e
-nc/dvips/lm/lm-ec.enc}</usr/local/texlive/2011/texmf-dist/fonts/type1/public/eu
-rosym/feymr10.pfb></usr/local/texlive/2011/texmf-dist/fonts/type1/public/lm/lmb
-x10.pfb></usr/local/texlive/2011/texmf-dist/fonts/type1/public/lm/lmbx12.pfb></
-usr/local/texlive/2011/texmf-dist/fonts/type1/public/lm/lmcsc10.pfb></usr/local
-/texlive/2011/texmf-dist/fonts/type1/public/lm/lmr10.pfb></usr/local/texlive/20
-11/texmf-dist/fonts/type1/public/lm/lmr12.pfb></usr/local/texlive/2011/texmf-di
-st/fonts/type1/public/lm/lmr17.pfb></usr/local/texlive/2011/texmf-dist/fonts/ty
-pe1/public/lm/lmr7.pfb></usr/local/texlive/2011/texmf-dist/fonts/type1/public/l
-m/lmr8.pfb>
-Output written on Expression_Besoins_Final.pdf (18 pages, 723519 bytes).
+{/usr/local/texlive/2011/texmf-dist/fo
+nts/enc/dvips/lm/lm-ec.enc}</usr/local/texlive/2011/texmf-dist/fonts/type1/publ
+ic/eurosym/feymr10.pfb></usr/local/texlive/2011/texmf-dist/fonts/type1/public/l
+m/lmbx10.pfb></usr/local/texlive/2011/texmf-dist/fonts/type1/public/lm/lmbx12.p
+fb></usr/local/texlive/2011/texmf-dist/fonts/type1/public/lm/lmcsc10.pfb></usr/
+local/texlive/2011/texmf-dist/fonts/type1/public/lm/lmr10.pfb></usr/local/texli
+ve/2011/texmf-dist/fonts/type1/public/lm/lmr12.pfb></usr/local/texlive/2011/tex
+mf-dist/fonts/type1/public/lm/lmr17.pfb></usr/local/texlive/2011/texmf-dist/fon
+ts/type1/public/lm/lmr7.pfb></usr/local/texlive/2011/texmf-dist/fonts/type1/pub
+lic/lm/lmr8.pfb>
+Output written on Expression_Besoins_Final.pdf (19 pages, 727025 bytes).
 PDF statistics:
- 119 PDF objects out of 1000 (max. 8388607)
- 70 compressed objects within 1 object stream
+ 123 PDF objects out of 1000 (max. 8388607)
+ 73 compressed objects within 1 object stream
  0 named destinations out of 1000 (max. 500000)
  51 words of extra memory for PDF output out of 10000 (max. 10000000)
 
