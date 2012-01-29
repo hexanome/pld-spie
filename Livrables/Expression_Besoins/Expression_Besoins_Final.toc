@@ -4,19 +4,26 @@
 \contentsline {subsection}{\numberline {1.1}Activit\IeC {\'e}s de SPIE}{2}
 \contentsline {paragraph}{Les intervenants}{4}
 \contentsline {paragraph}{Le contrat}{4}
-\contentsline {subsection}{\numberline {1.2}Offre et revue d\IeC {\textquoteright }offre}{5}
-\contentsline {subsection}{\numberline {1.3}N\IeC {\'e}gociation client}{6}
-\contentsline {subsection}{\numberline {1.4}Revue de commande}{6}
-\contentsline {subsection}{\numberline {1.5}Lancement des prestations de service et travaux}{6}
-\contentsline {subsection}{\numberline {1.6}R\IeC {\'e}alisation des prestations de maintenance}{7}
-\contentsline {subsection}{\numberline {1.7}\IeC {\'E}volution du contrat}{7}
-\contentsline {subsection}{\numberline {1.8}Solde de l\IeC {\textquoteright }affaire et du contrat}{7}
-\contentsline {subsection}{\numberline {1.9}Fin de processus affaire maintenance et service}{7}
-\contentsline {subsection}{\numberline {1.10}Applications utilis\IeC {\'e}es chez SPIE}{7}
+\contentsline {subsection}{\numberline {1.2}Les Processus de gestion de contrat de maintenance}{5}
+\contentsline {subsubsection}{\numberline {1.2.1}Offre et revue d\IeC {\textquoteright }offre}{5}
+\contentsline {subsubsection}{\numberline {1.2.2}N\IeC {\'e}gociation client}{6}
+\contentsline {subsubsection}{\numberline {1.2.3}Revue de commande}{6}
+\contentsline {subsubsection}{\numberline {1.2.4}Lancement des prestations de service et travaux}{6}
+\contentsline {subsubsection}{\numberline {1.2.5}R\IeC {\'e}alisation des prestations de maintenance}{7}
+\contentsline {subsubsection}{\numberline {1.2.6}\IeC {\'E}volution du contrat}{7}
+\contentsline {subsubsection}{\numberline {1.2.7}Solde de l\IeC {\textquoteright }affaire et du contrat}{7}
+\contentsline {subsubsection}{\numberline {1.2.8}Fin de processus affaire maintenance et service}{7}
+\contentsline {subsection}{\numberline {1.3}Applications utilis\IeC {\'e}es chez SPIE}{7}
 \contentsline {paragraph}{Titre \IeC {\`a} mettre}{7}
 \contentsline {section}{\numberline {2}Benchmarking}{8}
-\contentsline {section}{\numberline {3}Elaboration de la cible fonctionnelle}{8}
-\contentsline {subsection}{\numberline {3.1}Definition du Modele d'Activit\IeC {\'e}}{8}
-\contentsline {subsection}{\numberline {3.2}Mod\IeC {\`e}le Conceptuel des traitement}{9}
-\contentsline {subsection}{\numberline {3.3}Diagramme de cas d'utilisation de l'existant}{9}
-\contentsline {section}{\numberline {4}D\IeC {\'e}finition des axes de progr\IeC {\`e}s}{15}
+\contentsline {subsection}{\numberline {2.1}MySAP}{8}
+\contentsline {subsection}{\numberline {2.2}SAP Crystal Solutions}{8}
+\contentsline {subsection}{\numberline {2.3}SAP BusinessObjects BI OnDemand}{8}
+\contentsline {subsection}{\numberline {2.4}SAP BusinessObjects Edge Solutions}{9}
+\contentsline {subsection}{\numberline {2.5}Concurrence}{9}
+\contentsline {subsection}{\numberline {2.6}Autres solutions logicielles}{9}
+\contentsline {section}{\numberline {3}Elaboration de la cible fonctionnelle}{10}
+\contentsline {subsection}{\numberline {3.1}Definition du Modele d'Activit\IeC {\'e}}{10}
+\contentsline {subsection}{\numberline {3.2}Mod\IeC {\`e}le Conceptuel des traitement}{11}
+\contentsline {subsection}{\numberline {3.3}Diagramme de cas d'utilisation de l'existant}{11}
+\contentsline {section}{\numberline {4}D\IeC {\'e}finition des axes de progr\IeC {\`e}s}{17}
