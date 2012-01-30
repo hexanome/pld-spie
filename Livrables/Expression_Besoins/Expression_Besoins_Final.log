@@ -1,23 +1,24 @@
-This is pdfTeX, Version 3.1415926-1.40.11 (MiKTeX 2.9) (preloaded format=pdflatex 2011.4.27)  30 JAN 2012 10:53
+This is pdfTeX, Version 3.1415926-2.3-1.40.12 (TeX Live 2011) (format=pdflatex 2012.1.16)  30 JAN 2012 11:23
 entering extended mode
+ restricted \write18 enabled.
+ %&-line parsing enabled.
 **Expression_Besoins_Final.tex
-
-("D:\Visual Studio 2010\Insa\H4111\PLD-SPIE\Livrables\Expression_Besoins\Expres
-sion_Besoins_Final.tex"
+(./Expression_Besoins_Final.tex
 LaTeX2e <2009/09/24>
-Babel <v3.8l> and hyphenation patterns for english, afrikaans, ancientgreek, ar
-abic, armenian, assamese, basque, bengali, bokmal, bulgarian, catalan, coptic, 
-croatian, czech, danish, dutch, esperanto, estonian, farsi, finnish, french, ga
-lician, german, german-x-2009-06-19, greek, gujarati, hindi, hungarian, iceland
-ic, indonesian, interlingua, irish, italian, kannada, kurmanji, lao, latin, lat
-vian, lithuanian, malayalam, marathi, mongolian, mongolianlmc, monogreek, ngerm
-an, ngerman-x-2009-06-19, nynorsk, oriya, panjabi, pinyin, polish, portuguese, 
-romanian, russian, sanskrit, serbian, slovak, slovenian, spanish, swedish, swis
-sgerman, tamil, telugu, turkish, turkmen, ukenglish, ukrainian, uppersorbian, u
-senglishmax, welsh, loaded.
-(D:\Soft2\Latex\USBTeX-1.6\programs\MiKTeX_2.9\tex\latex\base\article.cls
+Babel <v3.8l> and hyphenation patterns for english, dumylang, nohyphenation, ge
+rman-x-2009-06-19, ngerman-x-2009-06-19, afrikaans, ancientgreek, ibycus, arabi
+c, armenian, basque, bulgarian, catalan, pinyin, coptic, croatian, czech, danis
+h, dutch, ukenglish, usenglishmax, esperanto, estonian, ethiopic, farsi, finnis
+h, french, galician, german, ngerman, swissgerman, monogreek, greek, hungarian,
+ icelandic, assamese, bengali, gujarati, hindi, kannada, malayalam, marathi, or
+iya, panjabi, tamil, telugu, indonesian, interlingua, irish, italian, kurmanji,
+ lao, latin, latvian, lithuanian, mongolian, mongolianlmc, bokmal, nynorsk, pol
+ish, portuguese, romanian, russian, sanskrit, serbian, serbianc, slovak, sloven
+ian, spanish, swedish, turkish, turkmen, ukrainian, uppersorbian, welsh, loaded
+.
+(/usr/local/texlive/2011/texmf-dist/tex/latex/base/article.cls
 Document Class: article 2007/10/19 v1.4h Standard LaTeX document class
-(D:\Soft2\Latex\USBTeX-1.6\programs\MiKTeX_2.9\tex\latex\base\size10.clo
+(/usr/local/texlive/2011/texmf-dist/tex/latex/base/size10.clo
 File: size10.clo 2007/10/19 v1.4h Standard LaTeX file (size option)
 )
 \c@part=\count79
@@ -32,19 +33,19 @@ File: size10.clo 2007/10/19 v1.4h Standard LaTeX file (size option)
 \belowcaptionskip=\skip42
 \bibindent=\dimen102
 )
-(D:\Soft2\Latex\USBTeX-1.6\programs\MiKTeX_2.9\tex\latex\base\inputenc.sty
+(/usr/local/texlive/2011/texmf-dist/tex/latex/base/inputenc.sty
 Package: inputenc 2008/03/30 v1.1d Input encoding file
 \inpenc@prehook=\toks14
 \inpenc@posthook=\toks15
 
-(D:\Soft2\Latex\USBTeX-1.6\programs\MiKTeX_2.9\tex\latex\base\utf8.def
+(/usr/local/texlive/2011/texmf-dist/tex/latex/base/utf8.def
 File: utf8.def 2008/04/05 v1.1m UTF-8 support for inputenc
 Now handling font encoding OML ...
 ... no UTF-8 mapping file for font encoding OML
 Now handling font encoding T1 ...
 ... processing UTF-8 mapping file for font encoding T1
 
-(D:\Soft2\Latex\USBTeX-1.6\programs\MiKTeX_2.9\tex\latex\base\t1enc.dfu
+(/usr/local/texlive/2011/texmf-dist/tex/latex/base/t1enc.dfu
 File: t1enc.dfu 2008/04/05 v1.1m UTF-8 support for inputenc
    defining Unicode char U+00A1 (decimal 161)
    defining Unicode char U+00A3 (decimal 163)
@@ -194,7 +195,7 @@ File: t1enc.dfu 2008/04/05 v1.1m UTF-8 support for inputenc
 Now handling font encoding OT1 ...
 ... processing UTF-8 mapping file for font encoding OT1
 
-(D:\Soft2\Latex\USBTeX-1.6\programs\MiKTeX_2.9\tex\latex\base\ot1enc.dfu
+(/usr/local/texlive/2011/texmf-dist/tex/latex/base/ot1enc.dfu
 File: ot1enc.dfu 2008/04/05 v1.1m UTF-8 support for inputenc
    defining Unicode char U+00A1 (decimal 161)
    defining Unicode char U+00A3 (decimal 163)
@@ -225,7 +226,7 @@ File: ot1enc.dfu 2008/04/05 v1.1m UTF-8 support for inputenc
 Now handling font encoding OMS ...
 ... processing UTF-8 mapping file for font encoding OMS
 
-(D:\Soft2\Latex\USBTeX-1.6\programs\MiKTeX_2.9\tex\latex\base\omsenc.dfu
+(/usr/local/texlive/2011/texmf-dist/tex/latex/base/omsenc.dfu
 File: omsenc.dfu 2008/04/05 v1.1m UTF-8 support for inputenc
    defining Unicode char U+00A7 (decimal 167)
    defining Unicode char U+00B6 (decimal 182)
@@ -249,22 +250,22 @@ Now handling font encoding U ...
    defining Unicode char U+2122 (decimal 8482)
    defining Unicode char U+2423 (decimal 9251)
 ))
-(D:\Soft2\Latex\USBTeX-1.6\programs\MiKTeX_2.9\tex\latex\geometry\geometry.sty
+(/usr/local/texlive/2011/texmf-dist/tex/latex/geometry/geometry.sty
 Package: geometry 2010/09/12 v5.6 Page Geometry
 
-(D:\Soft2\Latex\USBTeX-1.6\programs\MiKTeX_2.9\tex\latex\graphics\keyval.sty
+(/usr/local/texlive/2011/texmf-dist/tex/latex/graphics/keyval.sty
 Package: keyval 1999/03/16 v1.13 key=value parser (DPC)
 \KV@toks@=\toks16
 )
-(D:\Soft2\Latex\USBTeX-1.6\programs\MiKTeX_2.9\tex\generic\oberdiek\ifpdf.sty
+(/usr/local/texlive/2011/texmf-dist/tex/generic/oberdiek/ifpdf.sty
 Package: ifpdf 2011/01/30 v2.3 Provides the ifpdf switch (HO)
 Package ifpdf Info: pdfTeX in PDF mode is detected.
 )
-(D:\Soft2\Latex\USBTeX-1.6\programs\MiKTeX_2.9\tex\generic\oberdiek\ifvtex.sty
+(/usr/local/texlive/2011/texmf-dist/tex/generic/oberdiek/ifvtex.sty
 Package: ifvtex 2010/03/01 v1.5 Switches for detecting VTeX and its modes (HO)
 Package ifvtex Info: VTeX not detected.
-) (D:\Soft2\Latex\USBTeX-1.6\programs\MiKTeX_2.9\tex\generic\ifxetex\ifxetex.st
-y
+)
+(/usr/local/texlive/2011/texmf-dist/tex/generic/ifxetex/ifxetex.sty
 Package: ifxetex 2010/09/12 v0.6 Provides ifxetex conditional
 )
 \Gm@cnth=\count87
@@ -279,13 +280,11 @@ Package: ifxetex 2010/09/12 v0.6 Provides ifxetex conditional
 \Gm@layouthoffset=\dimen109
 \Gm@layoutvoffset=\dimen110
 \Gm@dimlist=\toks17
-
-(D:\Soft2\Latex\USBTeX-1.6\programs\MiKTeX_2.9\tex\latex\geometry\geometry.cfg)
-) (D:\Soft2\Latex\USBTeX-1.6\programs\MiKTeX_2.9\tex\latex\unicode\ucs.sty
+)
+(/usr/local/texlive/2011/texmf-dist/tex/latex/ucs/ucs.sty
 Package: ucs 2004/10/17 UCS: Unicode input support
 
-(D:\Soft2\Latex\USBTeX-1.6\programs\MiKTeX_2.9\tex\latex\unicode\data\uni-globa
-l.def
+(/usr/local/texlive/2011/texmf-dist/tex/latex/ucs/data/uni-global.def
 File: uni-global.def 2004/10/17 UCS: Unicode global data
 )
 \uc@secondtry=\count90
@@ -293,14 +292,14 @@ File: uni-global.def 2004/10/17 UCS: Unicode global data
 \uc@combtoksb=\toks19
 \uc@temptokena=\toks20
 )
-(D:\Soft2\Latex\USBTeX-1.6\programs\MiKTeX_2.9\tex\latex\base\fontenc.sty
+(/usr/local/texlive/2011/texmf-dist/tex/latex/base/fontenc.sty
 Package: fontenc 2005/09/27 v1.99g Standard LaTeX package
 
-(D:\Soft2\Latex\USBTeX-1.6\programs\MiKTeX_2.9\tex\latex\base\t1enc.def
+(/usr/local/texlive/2011/texmf-dist/tex/latex/base/t1enc.def
 File: t1enc.def 2005/09/27 v1.99g Standard LaTeX file
 LaTeX Font Info:    Redeclaring font encoding T1 on input line 43.
 ))
-(D:\Soft2\Latex\USBTeX-1.6\programs\MiKTeX_2.9\tex\latex\lm\lmodern.sty
+(/usr/local/texlive/2011/texmf-dist/tex/latex/lm/lmodern.sty
 Package: lmodern 2009/10/30 v1.6 Latin Modern Fonts
 LaTeX Font Info:    Overwriting symbol font `operators' in version `normal'
 (Font)                  OT1/cmr/m/n --> OT1/lmr/m/n on input line 22.
@@ -335,19 +334,13 @@ LaTeX Font Info:    Overwriting math alphabet `\mathit' in version `bold'
 LaTeX Font Info:    Overwriting math alphabet `\mathtt' in version `bold'
 (Font)                  OT1/cmtt/m/n --> OT1/lmtt/m/n on input line 38.
 )
-(D:\Soft2\Latex\USBTeX-1.6\programs\MiKTeX_2.9\tex\generic\babel\babel.sty
+(/usr/local/texlive/2011/texmf-dist/tex/generic/babel/babel.sty
 Package: babel 2008/07/06 v3.8l The Babel package
 
-*************************************
-* Local config file bblopts.cfg used
-*
-(D:\Soft2\Latex\USBTeX-1.6\programs\MiKTeX_2.9\tex\latex\00miktex\bblopts.cfg
-File: bblopts.cfg 2006/07/31 v1.0 MiKTeX 'babel' configuration
-)
-(D:\Soft2\Latex\USBTeX-1.6\programs\MiKTeX_2.9\tex\generic\babel\frenchb.ldf
+(/usr/local/texlive/2011/texmf-dist/tex/generic/babel/frenchb.ldf
 Language: frenchb 2009/03/16 v2.3d French support from the babel system
 
-(D:\Soft2\Latex\USBTeX-1.6\programs\MiKTeX_2.9\tex\generic\babel\babel.def
+(/usr/local/texlive/2011/texmf-dist/tex/generic/babel/babel.def
 File: babel.def 2008/07/06 v3.8l Babel common definitions
 \babel@savecnt=\count91
 \U@D=\dimen111
@@ -364,33 +357,43 @@ Package babel Info: Making ? an active character on input line 123.
 *************************************
 * Local config file frenchb.cfg used
 *
-(D:\Soft2\Latex\USBTeX-1.6\programs\MiKTeX_2.9\tex\generic\babel\frenchb.cfg)))
-(D:\Soft2\Latex\USBTeX-1.6\programs\MiKTeX_2.9\tex\latex\carlisle\scalefnt.sty)
-(D:\Soft2\Latex\USBTeX-1.6\programs\MiKTeX_2.9\tex\latex\graphics\graphicx.sty
+(/usr/local/texlive/2011/texmf-dist/tex/generic/babel/frenchb.cfg)))
+(/usr/local/texlive/2011/texmf-dist/tex/latex/carlisle/scalefnt.sty)
+(/usr/local/texlive/2011/texmf-dist/tex/latex/graphics/graphicx.sty
 Package: graphicx 1999/02/16 v1.0f Enhanced LaTeX Graphics (DPC,SPQR)
 
-(D:\Soft2\Latex\USBTeX-1.6\programs\MiKTeX_2.9\tex\latex\graphics\graphics.sty
+(/usr/local/texlive/2011/texmf-dist/tex/latex/graphics/graphics.sty
 Package: graphics 2009/02/05 v1.0o Standard LaTeX Graphics (DPC,SPQR)
 
-(D:\Soft2\Latex\USBTeX-1.6\programs\MiKTeX_2.9\tex\latex\graphics\trig.sty
+(/usr/local/texlive/2011/texmf-dist/tex/latex/graphics/trig.sty
 Package: trig 1999/03/16 v1.09 sin cos tan (DPC)
 )
-(D:\Soft2\Latex\USBTeX-1.6\programs\MiKTeX_2.9\tex\latex\00miktex\graphics.cfg
-File: graphics.cfg 2007/01/18 v1.5 graphics configuration of teTeX/TeXLive
+(/usr/local/texlive/2011/texmf-dist/tex/latex/latexconfig/graphics.cfg
+File: graphics.cfg 2010/04/23 v1.9 graphics configuration of TeX Live
 )
 Package graphics Info: Driver file: pdftex.def on input line 91.
-(D:\Soft2\Latex\USBTeX-1.6\programs\MiKTeX_2.9\tex\latex\pdftex-def\pdftex.def
-File: pdftex.def 2011/01/28 v0.05d Graphics/color for pdfTeX
+
+(/usr/local/texlive/2011/texmf-dist/tex/latex/pdftex-def/pdftex.def
+File: pdftex.def 2011/05/27 v0.06d Graphics/color for pdfTeX
+
+(/usr/local/texlive/2011/texmf-dist/tex/generic/oberdiek/infwarerr.sty
+Package: infwarerr 2010/04/08 v1.3 Providing info/warning/message (HO)
+)
+(/usr/local/texlive/2011/texmf-dist/tex/generic/oberdiek/ltxcmds.sty
+Package: ltxcmds 2011/04/18 v1.20 LaTeX kernel commands for general use (HO)
+)
 \Gread@gobject=\count94
 ))
 \Gin@req@height=\dimen114
 \Gin@req@width=\dimen115
-) (D:\Soft2\Latex\USBTeX-1.6\programs\MiKTeX_2.9\tex\latex\eurosym\eurosym.sty
+)
+(/usr/local/texlive/2011/texmf-dist/tex/latex/eurosym/eurosym.sty
 Package: eurosym 1998/08/06 v1.1 European currency symbol ``Euro''
 \@eurobox=\box26
 )
-("D:\Visual Studio 2010\Insa\H4111\PLD-SPIE\Livrables\Expression_Besoins\Expres
-sion_Besoins_Final.aux")
+(./Expression_Besoins_Final.aux)
+\openout1 = `Expression_Besoins_Final.aux'.
+
 LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 22.
 LaTeX Font Info:    ... okay on input line 22.
 LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 22.
@@ -405,7 +408,7 @@ LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 22.
 LaTeX Font Info:    ... okay on input line 22.
 LaTeX Font Info:    Try loading font information for T1+lmr on input line 22.
 
-(D:\Soft2\Latex\USBTeX-1.6\programs\MiKTeX_2.9\tex\latex\lm\t1lmr.fd
+(/usr/local/texlive/2011/texmf-dist/tex/latex/lm/t1lmr.fd
 File: t1lmr.fd 2009/10/30 v1.6 Font defs for Latin Modern
 )
 *geometry* driver: auto-detecting
@@ -442,7 +445,7 @@ File: t1lmr.fd 2009/10/30 v1.6 Font defs for Latin Modern
 * \@reversemarginfalse
 * (1in=72.27pt=25.4mm, 1cm=28.453pt)
 
-(D:\Soft2\Latex\USBTeX-1.6\programs\MiKTeX_2.9\tex\latex\unicode\ucsencs.def
+(/usr/local/texlive/2011/texmf-dist/tex/latex/ucs/ucsencs.def
 File: ucsencs.def 2003/11/29 Fixes to fontencodings LGR, T3
 )
 
@@ -463,14 +466,14 @@ Package ucs Warning: ***************************
 (ucs)                ***************************
 (ucs)                 on input line 22.
 
-(D:\Soft2\Latex\USBTeX-1.6\programs\MiKTeX_2.9\tex\latex\unicode\utf8x.def
+(/usr/local/texlive/2011/texmf-dist/tex/latex/ucs/utf8x.def
 File: utf8x.def 2004/10/17 UCS: Input encoding UTF-8
 )
 LaTeX Info: Redefining \degres on input line 22.
 LaTeX Info: Redefining \dots on input line 22.
 LaTeX Info: Redefining \up on input line 22.
 
-(D:\Soft2\Latex\USBTeX-1.6\programs\MiKTeX_2.9\tex\context\base\supp-pdf.mkii
+(/usr/local/texlive/2011/texmf-dist/tex/context/base/supp-pdf.mkii
 [Loading MPS to PDF converter (version 2006.09.02).]
 \scratchcounter=\count95
 \scratchdimen=\dimen116
@@ -483,29 +486,72 @@ LaTeX Info: Redefining \up on input line 22.
 \MPnumerator=\count99
 \makeMPintoPDFobject=\count100
 \everyMPtoPDFconversion=\toks22
+) (/usr/local/texlive/2011/texmf-dist/tex/generic/oberdiek/pdftexcmds.sty
+Package: pdftexcmds 2011/04/22 v0.16 Utilities of pdfTeX for LuaTeX (HO)
+
+(/usr/local/texlive/2011/texmf-dist/tex/generic/oberdiek/ifluatex.sty
+Package: ifluatex 2010/03/01 v1.3 Provides the ifluatex switch (HO)
+Package ifluatex Info: LuaTeX not detected.
 )
-(D:\Soft2\Latex\USBTeX-1.6\programs\MiKTeX_2.9\tex\latex\unicode\data\uni-0.def
+Package pdftexcmds Info: LuaTeX not detected.
+Package pdftexcmds Info: \pdf@primitive is available.
+Package pdftexcmds Info: \pdf@ifprimitive is available.
+Package pdftexcmds Info: \pdfdraftmode found.
+)
+(/usr/local/texlive/2011/texmf-dist/tex/latex/oberdiek/epstopdf-base.sty
+Package: epstopdf-base 2010/02/09 v2.5 Base part for package epstopdf
+
+(/usr/local/texlive/2011/texmf-dist/tex/latex/oberdiek/grfext.sty
+Package: grfext 2010/08/19 v1.1 Managing graphics extensions (HO)
+
+(/usr/local/texlive/2011/texmf-dist/tex/generic/oberdiek/kvdefinekeys.sty
+Package: kvdefinekeys 2011/04/07 v1.3 Defining keys (HO)
+))
+(/usr/local/texlive/2011/texmf-dist/tex/latex/oberdiek/kvoptions.sty
+Package: kvoptions 2010/12/23 v3.10 Keyval support for LaTeX options (HO)
+
+(/usr/local/texlive/2011/texmf-dist/tex/generic/oberdiek/kvsetkeys.sty
+Package: kvsetkeys 2011/04/07 v1.13 Key value parser (HO)
+
+(/usr/local/texlive/2011/texmf-dist/tex/generic/oberdiek/etexcmds.sty
+Package: etexcmds 2011/02/16 v1.5 Prefix for e-TeX command names (HO)
+Package etexcmds Info: Could not find \expanded.
+(etexcmds)             That can mean that you are not using pdfTeX 1.50 or
+(etexcmds)             that some package has redefined \expanded.
+(etexcmds)             In the latter case, load this package earlier.
+)))
+Package grfext Info: Graphics extension search list:
+(grfext)             [.png,.pdf,.jpg,.mps,.jpeg,.jbig2,.jb2,.PNG,.PDF,.JPG,.JPE
+G,.JBIG2,.JB2,.eps]
+(grfext)             \AppendGraphicsExtensions on input line 452.
+
+(/usr/local/texlive/2011/texmf-dist/tex/latex/latexconfig/epstopdf-sys.cfg
+File: epstopdf-sys.cfg 2010/07/13 v1.3 Configuration of (r)epstopdf for TeX Liv
+e
+))
+(/usr/local/texlive/2011/texmf-dist/tex/latex/ucs/data/uni-0.def
 File: uni-0.def 2004/10/17 UCS: Unicode data U+0000..U+00FF
 )
 LaTeX Font Info:    Try loading font information for OT1+lmr on input line 42.
- (D:\Soft2\Latex\USBTeX-1.6\programs\MiKTeX_2.9\tex\latex\lm\ot1lmr.fd
+
+(/usr/local/texlive/2011/texmf-dist/tex/latex/lm/ot1lmr.fd
 File: ot1lmr.fd 2009/10/30 v1.6 Font defs for Latin Modern
 )
 LaTeX Font Info:    Try loading font information for OML+lmm on input line 42.
 
-(D:\Soft2\Latex\USBTeX-1.6\programs\MiKTeX_2.9\tex\latex\lm\omllmm.fd
+(/usr/local/texlive/2011/texmf-dist/tex/latex/lm/omllmm.fd
 File: omllmm.fd 2009/10/30 v1.6 Font defs for Latin Modern
 )
 LaTeX Font Info:    Try loading font information for OMS+lmsy on input line 42.
 
 
-(D:\Soft2\Latex\USBTeX-1.6\programs\MiKTeX_2.9\tex\latex\lm\omslmsy.fd
+(/usr/local/texlive/2011/texmf-dist/tex/latex/lm/omslmsy.fd
 File: omslmsy.fd 2009/10/30 v1.6 Font defs for Latin Modern
 )
 LaTeX Font Info:    Try loading font information for OMX+lmex on input line 42.
 
 
-(D:\Soft2\Latex\USBTeX-1.6\programs\MiKTeX_2.9\tex\latex\lm\omxlmex.fd
+(/usr/local/texlive/2011/texmf-dist/tex/latex/lm/omxlmex.fd
 File: omxlmex.fd 2009/10/30 v1.6 Font defs for Latin Modern
 )
 LaTeX Font Info:    External font `lmex10' loaded for size
@@ -514,164 +560,195 @@ LaTeX Font Info:    External font `lmex10' loaded for size
 (Font)              <7> on input line 42.
 LaTeX Font Info:    External font `lmex10' loaded for size
 (Font)              <5> on input line 42.
+ [1
 
-[1
-
-{D:/Soft2/Latex/USBTeX-1.6/programs/MiKTeX_2.9/pdftex/config/pdftex.map}]
-("D:\Visual Studio 2010\Insa\H4111\PLD-SPIE\Livrables\Expression_Besoins\Expres
-sion_Besoins_Final.toc" [1])
+{/usr/local/texlive/2011/texmf-var/fonts/map/pdftex/updmap/pdftex.map}]
+(./Expression_Besoins_Final.toc)
 \tf@toc=\write3
- [2]
-("D:\Visual Studio 2010\Insa\H4111\PLD-SPIE\Livrables\Expression_Besoins\Expres
-sion_Besoins.tex"
-(D:\Soft2\Latex\USBTeX-1.6\programs\MiKTeX_2.9\tex\latex\unicode\data\uni-32.de
-f
+\openout3 = `Expression_Besoins_Final.toc'.
+
+ [1] (./Expression_Besoins.tex
+(/usr/local/texlive/2011/texmf-dist/tex/latex/ucs/data/uni-32.def
 File: uni-32.def 2004/10/17 UCS: Unicode data U+2000..U+20FF
-) <png_generaux/TerritoireSPIE.jpg, id=17, 567.11874pt x 401.5pt>
+)
+<png_generaux/TerritoireSPIE.jpg, id=15, 567.11874pt x 401.5pt>
 File: png_generaux/TerritoireSPIE.jpg Graphic file (type jpg)
 
-<use png_generaux/TerritoireSPIE.jpg> [3] [4 <D:/Visual Studio 2010/Insa/H4111/
-PLD-SPIE/Livrables/Expression_Besoins/png_generaux/TerritoireSPIE.jpg>]
-LaTeX Font Info:    Try loading font information for T1+lmtt on input line 75.
+<use png_generaux/TerritoireSPIE.jpg>
+Package pdftex.def Info: png_generaux/TerritoireSPIE.jpg used on input line 36.
 
-(D:\Soft2\Latex\USBTeX-1.6\programs\MiKTeX_2.9\tex\latex\lm\t1lmtt.fd
+(pdftex.def)             Requested size: 483.69687pt x 342.45287pt.
+ [2] [3 <./png_generaux/TerritoireSPIE.jpg>]
+LaTeX Font Info:    Try loading font information for T1+lmtt on input line 75.
+ (/usr/local/texlive/2011/texmf-dist/tex/latex/lm/t1lmtt.fd
 File: t1lmtt.fd 2009/10/30 v1.6 Font defs for Latin Modern
 )
-<png_generaux/DiagrammeOrganisationnelSPIE.png, id=27, 1121.18875pt x 280.04625
+<png_generaux/DiagrammeOrganisationnelSPIE.png, id=25, 1121.18875pt x 280.04625
 pt>
 File: png_generaux/DiagrammeOrganisationnelSPIE.png Graphic file (type png)
  <use png_generaux/DiagrammeOrganisationnelSPIE.png>
-<png_generaux/SimplificationProcessusDeMaintenanceSPIE.png, id=29, 2003.485pt x
- 184.69pt>
-File: png_generaux/SimplificationProcessusDeMaintenanceSPIE.png Graphic file (t
-ype png)
- <use png_generaux/SimplificationProcessusDeMaintenanceSPIE.png>
-[5 <D:/Visual Studio 2010/Insa/H4111/PLD-SPIE/Livrables/Expression_Besoins/png_
-generaux/DiagrammeOrganisationnelSPIE.png>] [6 <D:/Visual Studio 2010/Insa/H411
-1/PLD-SPIE/Livrables/Expression_Besoins/png_generaux/SimplificationProcessusDeM
-aintenanceSPIE.png>] [7]
-(D:\Soft2\Latex\USBTeX-1.6\programs\MiKTeX_2.9\tex\latex\unicode\data\uni-1.def
-File: uni-1.def 2004/10/17 UCS: Unicode data U+0100..U+01FF
-) [8] [9] [10]
-<png_generaux/DiagrammeModeleActivite.png, id=52, 1014.79124pt x 628.3475pt>
+Package pdftex.def Info: png_generaux/DiagrammeOrganisationnelSPIE.png used on 
+input line 84.
+(pdftex.def)             Requested size: 483.69687pt x 120.81493pt.
+ [4 <./png_generaux/DiagrammeOrganisationnelSPIE.png>] [5] [6] [7] [8] [9]
+<png_generaux/DiagrammeModeleActivite.png, id=48, 1014.79124pt x 628.3475pt>
 File: png_generaux/DiagrammeModeleActivite.png Graphic file (type png)
 
-<use png_generaux/DiagrammeModeleActivite.png> [11]
-<png_generaux/DCUAppelOffre.png, id=56, 702.625pt x 557.08125pt>
+<use png_generaux/DiagrammeModeleActivite.png>
+Package pdftex.def Info: png_generaux/DiagrammeModeleActivite.png used on input
+ line 332.
+(pdftex.def)             Requested size: 483.69687pt x 299.49405pt.
+ [10 <./png_generaux/DiagrammeModeleActivite.png>]
+<png_generaux/DCUAppelOffre.png, id=53, 702.625pt x 557.08125pt>
 File: png_generaux/DCUAppelOffre.png Graphic file (type png)
 
-<use png_generaux/DCUAppelOffre.png> [12 <D:/Visual Studio 2010/Insa/H4111/PLD-
-SPIE/Livrables/Expression_Besoins/png_generaux/DiagrammeModeleActivite.png>]
-<png_generaux/DCUGererCommande.png, id=62, 697.60625pt x 557.08125pt>
+<use png_generaux/DCUAppelOffre.png>
+Package pdftex.def Info: png_generaux/DCUAppelOffre.png used on input line 352.
+
+(pdftex.def)             Requested size: 483.69687pt x 383.51094pt.
+
+<png_generaux/DCUGererCommande.png, id=54, 697.60625pt x 557.08125pt>
 File: png_generaux/DCUGererCommande.png Graphic file (type png)
 
-<use png_generaux/DCUGererCommande.png> [13 <D:/Visual Studio 2010/Insa/H4111/P
-LD-SPIE/Livrables/Expression_Besoins/png_generaux/DCUAppelOffre.png>]
-<png_generaux/DCUGererActiMaintenance.png, id=67, 692.5875pt x 540.0175pt>
+<use png_generaux/DCUGererCommande.png>
+Package pdftex.def Info: png_generaux/DCUGererCommande.png used on input line 3
+56.
+(pdftex.def)             Requested size: 483.69687pt x 386.26506pt.
+ [11 <./png_generaux/DCUAppelOffre.png>] <png_generaux/DCUGererActiMaintenance.
+png, id=59, 692.5875pt x 540.0175pt>
 File: png_generaux/DCUGererActiMaintenance.png Graphic file (type png)
 
-<use png_generaux/DCUGererActiMaintenance.png> [14 <D:/Visual Studio 2010/Insa/
-H4111/PLD-SPIE/Livrables/Expression_Besoins/png_generaux/DCUGererCommande.png>]
-<png_generaux/DCUGererPrestationService.png, id=72, 692.5875pt x 605.26125pt>
+<use png_generaux/DCUGererActiMaintenance.png>
+Package pdftex.def Info: png_generaux/DCUGererActiMaintenance.png used on input
+ line 360.
+(pdftex.def)             Requested size: 483.69687pt x 377.15271pt.
+ [12 <./png_generaux/DCUGererCommande.png>]
+<png_generaux/DCUGererPrestationService.png, id=65, 692.5875pt x 605.26125pt>
 File: png_generaux/DCUGererPrestationService.png Graphic file (type png)
 
-<use png_generaux/DCUGererPrestationService.png> [15 <D:/Visual Studio 2010/Ins
-a/H4111/PLD-SPIE/Livrables/Expression_Besoins/png_generaux/DCUGererActiMaintena
-nce.png>]
-<png_generaux/DCUGererEvolutionContrat.png, id=77, 692.5875pt x 469.755pt>
+<use png_generaux/DCUGererPrestationService.png>
+Package pdftex.def Info: png_generaux/DCUGererPrestationService.png used on inp
+ut line 364.
+(pdftex.def)             Requested size: 483.69687pt x 422.71948pt.
+ [13 <./png_generaux/DCUGererActiMaintenance.png>]
+<png_generaux/DCUGererEvolutionContrat.png, id=70, 692.5875pt x 469.755pt>
 File: png_generaux/DCUGererEvolutionContrat.png Graphic file (type png)
 
-<use png_generaux/DCUGererEvolutionContrat.png> [16 <D:/Visual Studio 2010/Insa
-/H4111/PLD-SPIE/Livrables/Expression_Besoins/png_generaux/DCUGererPrestationSer
-vice.png>]
-<png_generaux/DCUGererFacturation.png, id=82, 701.62125pt x 540.0175pt>
+<use png_generaux/DCUGererEvolutionContrat.png>
+Package pdftex.def Info: png_generaux/DCUGererEvolutionContrat.png used on inpu
+t line 368.
+(pdftex.def)             Requested size: 483.69687pt x 328.0808pt.
+ [14 <./png_generaux/DCUGererPrestationService.png>]
+<png_generaux/DCUGererFacturation.png, id=75, 701.62125pt x 540.0175pt>
 File: png_generaux/DCUGererFacturation.png Graphic file (type png)
 
 <use png_generaux/DCUGererFacturation.png>
-<png_cible_fonctionnelle/DCPV.png, id=83, 1538.74875pt x 155.58125pt>
+Package pdftex.def Info: png_generaux/DCUGererFacturation.png used on input lin
+e 372.
+(pdftex.def)             Requested size: 483.69687pt x 372.29935pt.
+
+<png_cible_fonctionnelle/DCPV.png, id=76, 1538.74875pt x 155.58125pt>
 File: png_cible_fonctionnelle/DCPV.png Graphic file (type png)
 
-<use png_cible_fonctionnelle/DCPV.png> [17 <D:/Visual Studio 2010/Insa/H4111/PL
-D-SPIE/Livrables/Expression_Besoins/png_generaux/DCUGererEvolutionContrat.png> 
-<D:/Visual Studio 2010/Insa/H4111/PLD-SPIE/Livrables/Expression_Besoins/png_gen
-eraux/DCUGererFacturation.png>]
-<png_cible_fonctionnelle/MCD.png, id=89, 783.92876pt x 874.26625pt>
+<use png_cible_fonctionnelle/DCPV.png>
+Package pdftex.def Info: png_cible_fonctionnelle/DCPV.png used on input line 37
+9.
+(pdftex.def)             Requested size: 483.69687pt x 48.90627pt.
+ [15 <./png_generaux/DCUGererEvolutionContrat.png> <./png_generaux/DCUGererFact
+uration.png>]
+<png_cible_fonctionnelle/MCD.png, id=82, 783.92876pt x 874.26625pt>
 File: png_cible_fonctionnelle/MCD.png Graphic file (type png)
 
-<use png_cible_fonctionnelle/MCD.png> [18 <D:/Visual Studio 2010/Insa/H4111/PLD
--SPIE/Livrables/Expression_Besoins/png_cible_fonctionnelle/DCPV.png> <D:/Visual
- Studio 2010/Insa/H4111/PLD-SPIE/Livrables/Expression_Besoins/png_cible_fonctio
-nnelle/MCD.png>]
-<png_cible_fonctionnelle/AideFaisabiliteTechnique.png, id=96, 759.83875pt x 783
+<use png_cible_fonctionnelle/MCD.png>
+Package pdftex.def Info: png_cible_fonctionnelle/MCD.png used on input line 386
+.
+(pdftex.def)             Requested size: 483.69687pt x 539.43813pt.
+ [16 <./png_cible_fonctionnelle/DCPV.png> <./png_cible_fonctionnelle/MCD.png>]
+<png_cible_fonctionnelle/AideFaisabiliteTechnique.png, id=88, 759.83875pt x 783
 .92876pt>
 File: png_cible_fonctionnelle/AideFaisabiliteTechnique.png Graphic file (type p
 ng)
  <use png_cible_fonctionnelle/AideFaisabiliteTechnique.png>
-<png_cible_fonctionnelle/AideChiffrageFinanciere.png, id=97, 830.10126pt x 812.
+Package pdftex.def Info: png_cible_fonctionnelle/AideFaisabiliteTechnique.png u
+sed on input line 393.
+(pdftex.def)             Requested size: 483.69687pt x 499.04523pt.
+
+<png_cible_fonctionnelle/AideChiffrageFinanciere.png, id=89, 830.10126pt x 812.
 03375pt>
 File: png_cible_fonctionnelle/AideChiffrageFinanciere.png Graphic file (type pn
 g)
- <use png_cible_fonctionnelle/AideChiffrageFinanciere.png> [19 <D:/Visual Studi
-o 2010/Insa/H4111/PLD-SPIE/Livrables/Expression_Besoins/png_cible_fonctionnelle
-/AideFaisabiliteTechnique.png>]
-<png_cible_fonctionnelle/AideMobileRessourcesHumaines.png, id=102, 712.6625pt x
- 791.95876pt>
+ <use png_cible_fonctionnelle/AideChiffrageFinanciere.png>
+Package pdftex.def Info: png_cible_fonctionnelle/AideChiffrageFinanciere.png us
+ed on input line 398.
+(pdftex.def)             Requested size: 483.69687pt x 473.16066pt.
+ [17 <./png_cible_fonctionnelle/AideFaisabiliteTechnique.png>]
+<png_cible_fonctionnelle/AideMobileRessourcesHumaines.png, id=94, 712.6625pt x 
+791.95876pt>
 File: png_cible_fonctionnelle/AideMobileRessourcesHumaines.png Graphic file (ty
 pe png)
  <use png_cible_fonctionnelle/AideMobileRessourcesHumaines.png>
-[20 <D:/Visual Studio 2010/Insa/H4111/PLD-SPIE/Livrables/Expression_Besoins/png
-_cible_fonctionnelle/AideChiffrageFinanciere.png>]
-<png_cible_fonctionnelle/AideTechnicienAvantInterventionTechnique.png, id=107, 
+Package pdftex.def Info: png_cible_fonctionnelle/AideMobileRessourcesHumaines.p
+ng used on input line 404.
+(pdftex.def)             Requested size: 483.69687pt x 537.50975pt.
+
+[18 <./png_cible_fonctionnelle/AideChiffrageFinanciere.png>]
+<png_cible_fonctionnelle/AideTechnicienAvantInterventionTechnique.png, id=100, 
 688.5725pt x 804.00375pt>
 File: png_cible_fonctionnelle/AideTechnicienAvantInterventionTechnique.png Grap
 hic file (type png)
 
 <use png_cible_fonctionnelle/AideTechnicienAvantInterventionTechnique.png>
-[21 <D:/Visual Studio 2010/Insa/H4111/PLD-SPIE/Livrables/Expression_Besoins/png
-_cible_fonctionnelle/AideMobileRessourcesHumaines.png>]
-<png_cible_fonctionnelle/RemplissageTechnicienFinIntervention.png, id=112, 662.
+Package pdftex.def Info: png_cible_fonctionnelle/AideTechnicienAvantInterventio
+nTechnique.png used on input line 411.
+(pdftex.def)             Requested size: 483.69687pt x 564.78622pt.
+
+[19 <./png_cible_fonctionnelle/AideMobileRessourcesHumaines.png>]
+<png_cible_fonctionnelle/RemplissageTechnicienFinIntervention.png, id=105, 662.
 475pt x 814.04124pt>
 File: png_cible_fonctionnelle/RemplissageTechnicienFinIntervention.png Graphic 
 file (type png)
 
-<use png_cible_fonctionnelle/RemplissageTechnicienFinIntervention.png> [22 <D:/
-Visual Studio 2010/Insa/H4111/PLD-SPIE/Livrables/Expression_Besoins/png_cible_f
-onctionnelle/AideTechnicienAvantInterventionTechnique.png>]
+<use png_cible_fonctionnelle/RemplissageTechnicienFinIntervention.png>
+Package pdftex.def Info: png_cible_fonctionnelle/RemplissageTechnicienFinInterv
+ention.png used on input line 416.
+(pdftex.def)             Requested size: 483.69687pt x 594.35695pt.
+ [20 <./png_cible_fonctionnelle/AideTechnicienAvantInterventionTechnique.png>]
 <png_cible_fonctionnelle/RemplissageEtatDesLieuxApresFinPhaseTravail.png, id=11
-7, 891.33pt x 934.49126pt>
+0, 891.33pt x 934.49126pt>
 File: png_cible_fonctionnelle/RemplissageEtatDesLieuxApresFinPhaseTravail.png G
 raphic file (type png)
 
 <use png_cible_fonctionnelle/RemplissageEtatDesLieuxApresFinPhaseTravail.png>
-[23 <D:/Visual Studio 2010/Insa/H4111/PLD-SPIE/Livrables/Expression_Besoins/png
-_cible_fonctionnelle/RemplissageTechnicienFinIntervention.png>] [24 <D:/Visual 
-Studio 2010/Insa/H4111/PLD-SPIE/Livrables/Expression_Besoins/png_cible_fonction
-nelle/RemplissageEtatDesLieuxApresFinPhaseTravail.png>] [25]) [26]
-("D:\Visual Studio 2010\Insa\H4111\PLD-SPIE\Livrables\Expression_Besoins\Expres
-sion_Besoins_Final.aux") ) 
+Package pdftex.def Info: png_cible_fonctionnelle/RemplissageEtatDesLieuxApresFi
+nPhaseTravail.png used on input line 421.
+(pdftex.def)             Requested size: 483.69687pt x 507.12738pt.
+
+[21 <./png_cible_fonctionnelle/RemplissageTechnicienFinIntervention.png>]
+[22 <./png_cible_fonctionnelle/RemplissageEtatDesLieuxApresFinPhaseTravail.png>
+] [23]) [24] (./Expression_Besoins_Final.aux) ) 
 Here is how much of TeX's memory you used:
- 4467 strings out of 494019
- 62297 string characters out of 3128541
- 113323 words of memory out of 3000000
- 7660 multiletter control sequences out of 15000+200000
+ 4309 strings out of 493633
+ 61764 string characters out of 3143377
+ 123943 words of memory out of 3000000
+ 7491 multiletter control sequences out of 15000+200000
  48622 words of font info for 38 fonts, out of 3000000 for 9000
- 714 hyphenation exceptions out of 8191
- 25i,5n,24p,1263b,562s stack positions out of 5000i,500n,10000p,200000b,50000s
-{D:/Soft2/Latex/USBTeX-1.6/programs/MiKTeX_2.9/fonts/
-enc/dvips/lm/lm-ec.enc}<D:/Soft2/Latex/USBTeX-1.6/programs/MiKTeX_2.9/fonts/typ
-e1/public/eurosym/feymr10.pfb><D:/Soft2/Latex/USBTeX-1.6/programs/MiKTeX_2.9/fo
-nts/type1/public/lm/lmbx10.pfb><D:/Soft2/Latex/USBTeX-1.6/programs/MiKTeX_2.9/f
-onts/type1/public/lm/lmbx12.pfb><D:/Soft2/Latex/USBTeX-1.6/programs/MiKTeX_2.9/
-fonts/type1/public/lm/lmcsc10.pfb><D:/Soft2/Latex/USBTeX-1.6/programs/MiKTeX_2.
-9/fonts/type1/public/lm/lmr10.pfb><D:/Soft2/Latex/USBTeX-1.6/programs/MiKTeX_2.
-9/fonts/type1/public/lm/lmr12.pfb><D:/Soft2/Latex/USBTeX-1.6/programs/MiKTeX_2.
-9/fonts/type1/public/lm/lmr17.pfb><D:/Soft2/Latex/USBTeX-1.6/programs/MiKTeX_2.
-9/fonts/type1/public/lm/lmr7.pfb><D:/Soft2/Latex/USBTeX-1.6/programs/MiKTeX_2.9
-/fonts/type1/public/lm/lmr8.pfb><D:/Soft2/Latex/USBTeX-1.6/programs/MiKTeX_2.9/
-fonts/type1/public/lm/lmtt8.pfb>
-Output written on Expression_Besoins_Final.pdf (27 pages, 927141 bytes).
+ 831 hyphenation exceptions out of 8191
+ 37i,5n,24p,1253b,562s stack positions out of 5000i,500n,10000p,200000b,50000s
+{/usr/local/texlive/2011/texmf-d
+ist/fonts/enc/dvips/lm/lm-ec.enc}</usr/local/texlive/2011/texmf-dist/fonts/type
+1/public/eurosym/feymr10.pfb></usr/local/texlive/2011/texmf-dist/fonts/type1/pu
+blic/lm/lmbx10.pfb></usr/local/texlive/2011/texmf-dist/fonts/type1/public/lm/lm
+bx12.pfb></usr/local/texlive/2011/texmf-dist/fonts/type1/public/lm/lmcsc10.pfb>
+</usr/local/texlive/2011/texmf-dist/fonts/type1/public/lm/lmr10.pfb></usr/local
+/texlive/2011/texmf-dist/fonts/type1/public/lm/lmr12.pfb></usr/local/texlive/20
+11/texmf-dist/fonts/type1/public/lm/lmr17.pfb></usr/local/texlive/2011/texmf-di
+st/fonts/type1/public/lm/lmr7.pfb></usr/local/texlive/2011/texmf-dist/fonts/typ
+e1/public/lm/lmr8.pfb></usr/local/texlive/2011/texmf-dist/fonts/type1/public/lm
+/lmtt8.pfb>
+Output written on Expression_Besoins_Final.pdf (25 pages, 901027 bytes).
 PDF statistics:
- 166 PDF objects out of 1000 (max. 8388607)
+ 160 PDF objects out of 1000 (max. 8388607)
+ 89 compressed objects within 1 object stream
  0 named destinations out of 1000 (max. 500000)
- 91 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 86 words of extra memory for PDF output out of 10000 (max. 10000000)
 
