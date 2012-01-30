@@ -312,7 +312,7 @@ Les principales fonctionnalités sont :
 \item et l'analyse des temps et des coûts.
 \end{itemize}
 
-\section{Elaboration de la cible fonctionnelle}
+\section{Elaboration de la cible fonctionnelle (Existant)}
 Dans l'ensemble des processus de gestion des contrats de maintenance, nous avons mis en avant des entités organisationnelles précisent qui interviennent chacune à leur façon dans l'évolution du contrat.
 
 \subsection{Definition du Modele d'Activité} 
@@ -348,77 +348,34 @@ Il est cependant possible d'effectuer des critiques sur la manière dont les pro
 
 Il est cependant utile d'établir des diagrammes de cas d'utilisation afin de définir avec plus de précisions les notions présentes dans le modèle d'activité. Voici donc les diagrammes de cas d'utilisation correspondant à chacunes des étapes clefs de la gestion des contrats de maintenance chez SPIE.
 
+Diagramme de cas d'utilisation Gérer l'appel d'offre :
 \begin {center}
 \includegraphics[width=\textwidth]{png_generaux/DCUAppelOffre.png}
 \end {center}
 
+Diagramme de cas d'utilisation Gérer la commande :
 \begin {center}
 \includegraphics[width=\textwidth]{png_generaux/DCUGererCommande.png}
 \end {center}
 
+Diagramme de cas d'utilisation Gérer l'activité de maintenance :
 \begin {center}
 \includegraphics[width=\textwidth]{png_generaux/DCUGererActiMaintenance.png}
 \end {center}
 
+Diagramme de cas d'utilisation Gérer la prestation de service :
 \begin {center}
 \includegraphics[width=\textwidth]{png_generaux/DCUGererPrestationService.png}
 \end {center}
 
+Diagramme de cas d'utilisation Gérer l'évolution du contrat : 
 \begin {center}
 \includegraphics[width=\textwidth]{png_generaux/DCUGererEvolutionContrat.png}
 \end {center}
 
+Diagramme de cas d'utilisation Gérer la facturation :
 \begin {center}
 \includegraphics[width=\textwidth]{png_generaux/DCUGererFacturation.png}
-\end {center}
-
-\subsection{Diagrammes de processus contenant les axes d'amélioration}
-\subsubsection{Processus affectés par les changements}
-
-\begin {center}
-\includegraphics[width=\textwidth]{png_cible_fonctionnelle/DCPV.png}
-\end {center}
-
-
-\subsubsection{Modèle conceptuel de données}
-
-\begin {center}
-\includegraphics[width=\textwidth]{png_cible_fonctionnelle/MCD.png}
-\end {center}
-
-
-\subsubsection{Modification du processus d'appel d'offre}
-Pour la partie technique :
-\begin {center}
-\includegraphics[width=\textwidth]{png_cible_fonctionnelle/AideFaisabiliteTechnique.png}
-\end {center}
-
-Pour la partie chiffrage financier :
-\begin {center}
-\includegraphics[width=\textwidth]{png_cible_fonctionnelle/AideChiffrageFinanciere.png}
-\end {center}
-
-\subsubsection{Modification du processus de lancement de la prestation de maintenance}
-
-\begin {center}
-\includegraphics[width=\textwidth]{png_cible_fonctionnelle/AideMobileRessourcesHumaines.png}
-\end {center}
-
-\subsubsection{Modification du processus de réalisation des prestations de maintenance}
-
-Avant l'intervention du technicien :
-\begin {center}
-\includegraphics[width=\textwidth]{png_cible_fonctionnelle/AideTechnicienAvantInterventionTechnique.png}
-\end {center}
-
-Après l'intervention du technicien :
-\begin {center}
-\includegraphics[width=\textwidth]{png_cible_fonctionnelle/RemplissageTechnicienFinIntervention.png}
-\end {center}
-
-Après la fin de la phase de travail :
-\begin {center}
-\includegraphics[width=\textwidth]{png_cible_fonctionnelle/RemplissageEtatDesLieuxApresFinPhaseTravail.png}
 \end {center}
 
 \section{Définition des axes de progrès}
@@ -478,5 +435,55 @@ D'autre part, le fait de devoir commenter chaque phase du projet force chaque ac
 
 
 Ce receuil d'informations permettra dans le même temps d'effectuer une analyse des risques tout au long du projet. En prenant comme référentiel les contrats qui se sont déjà déroulés avec succès on pourra évaluer le risque en temps réel pour chaque phase. Le rapport de risque sera lui même ajouté comme \og commentaire \fg du contrat de maintenance et permettra aussi d'enrichir la base de données.
+
+\subsection{Diagrammes de processus contenant les axes d'amélioration}
+\subsubsection{Processus affectés par les changements}
+
+Voici les processus affectés par la mise en place de nos axes d'améliorations.
+\begin {center}
+\includegraphics[width=\textwidth]{png_cible_fonctionnelle/DCPV.png}
+\end {center}
+
+
+\subsubsection{Modèle conceptuel de données}
+
+\begin {center}
+\includegraphics[width=\textwidth]{png_cible_fonctionnelle/MCD.png}
+\end {center}
+
+
+\subsubsection{Modification du processus d'appel d'offre}
+Pour la partie technique :
+\begin {center}
+\includegraphics[width=\textwidth]{png_cible_fonctionnelle/AideFaisabiliteTechnique.png}
+\end {center}
+
+Pour la partie chiffrage financier :
+\begin {center}
+\includegraphics[width=\textwidth]{png_cible_fonctionnelle/AideChiffrageFinanciere.png}
+\end {center}
+
+\subsubsection{Modification du processus de lancement de la prestation de maintenance}
+
+\begin {center}
+\includegraphics[width=\textwidth]{png_cible_fonctionnelle/AideMobileRessourcesHumaines.png}
+\end {center}
+
+\subsubsection{Modification du processus de réalisation des prestations de maintenance}
+
+Avant l'intervention du technicien :
+\begin {center}
+\includegraphics[width=\textwidth]{png_cible_fonctionnelle/AideTechnicienAvantInterventionTechnique.png}
+\end {center}
+
+Après l'intervention du technicien :
+\begin {center}
+\includegraphics[width=\textwidth]{png_cible_fonctionnelle/RemplissageTechnicienFinIntervention.png}
+\end {center}
+
+Après la fin de la phase de travail :
+\begin {center}
+\includegraphics[width=\textwidth]{png_cible_fonctionnelle/RemplissageEtatDesLieuxApresFinPhaseTravail.png}
+\end {center}
 
 \end{itemize}
