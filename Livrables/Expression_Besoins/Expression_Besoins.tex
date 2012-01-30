@@ -72,7 +72,7 @@ Voici une liste des filiales de SPIE Sud-Est dans les domaines du service indust
 \item ELECTROTECH : spécialiste du génie électrique en Suisse.
 \end{itemize}
 
-\footnotetext{Source : site internet SPIE Sud-Est - http://j.mp/xTveeD}
+\footnotetext{Source : site internet SPIE Sud-Est - \tt{http://j.mp/xTveeD}}
 %http://www.spie.com/a-propos-de-spie2/spie-dans-le-monde1/spie-sud-est1.html#c3771
 
 Gestion des contrats de maintenance chez SPIE
@@ -282,13 +282,18 @@ L’objectif est de comparer d’autres solutions logicielles existantes, spéci
 
 On a sélectionné plusieurs progiciels spécialisé dans la gestion de maintenance reconnu et utilisé par de nombreuses entreprise. Nos informations proviennent de leur site web:
 
-Carl Software\footnotemark
-Optimaint\footnotemark
+\begin{itemize}
+\item Carl Software\footnotemark
 
 % Site internet : http://www.carl-software.fr
-\footnotetext{Site internet Carl Software : http://j.mp/carl-software}
+\footnotetext{Site internet Carl Software : \tt{http://j.mp/carl-software}}
+
+\item Optimaint\footnotemark
+
 % Site internet : http://www.europrint-gmao.fr
-\footnotetext{Site internet Optimaint : http://j.mp/europrint}
+\footnotetext{Site internet Optimaint : \tt{http://j.mp/europrint}}
+
+\end{itemize}
 
 Malheureusement, ces sites ne sont que des vitrines et peu d’informations sur le fond sont disponibles. De même que pour le benchmarking de la concurrence, on ne pourra pas espérer apprendre de bonnes pratiques, ni comment sont gérés les processus. On se contentera de dégager les fonctionnalités communes et importantes pour la gestion de la maintenance.
 
@@ -317,7 +322,7 @@ Dans l'ensemble des processus de gestion des contrats de maintenance, nous avons
 \item Gérer la commande : lorsque l'appel d'offre a été validé et que le client a parfaitement définit ses besoins au niveau du contrat de maintenance, SPIE est à même de lancer la \og commande \fg du contrat de maintenance. L'équipe de travail examinera donc les ressources humaines et matérielles à mettre en place pour honorer le contrat suivant les exigences formulées par le client.
 \item Gérer l'activité de maintenance : le responsable d'activité maintenance (RAM) au sein de SPIE garde un oeil sur l'avancée de la maintenance. Le RAM peut donc adapter la manière dont les techniciens vont intervenir sur les zones à maintenir afin de respecter les processus de maintenance definit par SPIE. Le service RH organisera la répartition des ressources humaines (technicien) qui seront en charge de l'intervention direct sur site.
 \item Gérer la prestation de service : c'est l'activité du responsable d'affaire d'évaluer le déroulement du contrat. Le RA capitalise donc les informations venant de tous les acteurs du contrat de maintenance. En synthétisant toutes ces informations (reporting) et en gardant en tête les risques et les échéances, il doit être capable de déterminer les perspectives d'évolution du contrat.
-\item Gérer l'évolution du contrat : en fonction du déroulement de la prestation de service mais aussi de la réalisation éventuelle de certains risques (surcoût, retard…), les acteurs clefs du projet (RAM, RA, service financier) vont faire évoluer le projet. Par exemple, si la prestation se passe bien, il pourra être proposé au client d'étendre ce contrat de maintenance à d'autres de ces installations. Si la prestation de service sort du cadre établi lors de l'appel d'offre, on établira alors des avenants.
+\item Gérer l'évolution du contrat : en fonction du déroulement de la prestation de service mais aussi de la réalisation éventuelle de certains risques (surcoût, retard, etc.), les acteurs clefs du projet (RAM, RA, service financier) vont faire évoluer le projet. Par exemple, si la prestation se passe bien, il pourra être proposé au client d'étendre ce contrat de maintenance à d'autres de ces installations. Si la prestation de service sort du cadre établi lors de l'appel d'offre, on établira alors des avenants.
 \item Gérer la facturation : à l'issue de chaque phase clef du projet, il faudra formaliser les procédures de recettes. 
 \end{itemize}
 
@@ -328,18 +333,19 @@ Voici un modèle d'activité synthétique pour la gestion des contrats de mainte
 \end {center}
 
 \subsection{Modèle Conceptuel des traitement} 
+
 Vis à vis des documents fournis par SPIE, nous disposons déjà de descriptions formalisées des processus métier dans le cadre de la gestion des contrats de maintenance chez SPIE. Il nous semble donc inutile de retraduire ces processus déjà assez précis.
 
 Il est cependant possible d'effectuer des critiques sur la manière dont les processus s'imbriquent :
 
 \begin{itemize}
-\item Le reporting du technicien de maintenance n'est, selon nous, pas assez détaillé. En effet, il serait fortement intéressant de plus faire participer le techniciens à la rédaction, brève bien entendu, d'un rapport d'intervention qui serait concilié au sein du SI afin que son diagnostic puisse être réutilisé. Dans la même idée, il serait intéressant d'affilier un technicien (ou groupe de technicien) toujours au même chantier de maintenance. Cette tactique permet ainsi au technicien de connaître parfaitement son domaine d'intervention et ainsi de minimiser le coût humain.
-\item Enrichir le SI de rapports d'interventions permettrait de capitaliser et de gagner de l'expérience dans le domaine de l'expertise, un des domaines phare de SPIE.
+\item Le reporting du technicien de maintenance n'est, selon nous, pas assez détaillé. En effet, il serait fortement intéressant de plus faire participer le techniciens à la rédaction, brève bien entendu, d'un rapport d'intervention qui serait concilié au sein du SI afin que son diagnostic puisse être réutilisé. Dans la même idée, il serait intéressant de toujours affilier un technicien (ou groupe de technicien) au même type chantier de maintenance. Cette approche permet ainsi au technicien de parfaitement connaître son domaine d'intervention et ainsi de minimiser le coût humain.
+\item Enrichir le SI de rapports d'interventions permettrait d'engranger de l'expérience dans le domaine de l'expertise, et de capitaliser sur celle-ci, un des domaines phare de SPIE.
 \item Formaliser les éventuels problèmes juridiques. Un contrat avorte souvent du fait de l'incompréhension entre la MOA et la MOE. Dans les diagrammes de processus qui nous sont fournis, il pourrait être pertinent d'ajouter un processus gestion des contentieux. De même, ce processus pourrait permettre d'enrichir le SI en expérience sur le déroulement des contrats.
 \end{itemize}
 
-
 \subsection{Diagramme de cas d'utilisation de l'existant}
+
 Il est cependant utile d'établir des diagrammes de cas d'utilisation afin de définir avec plus de précisions les notions présentes dans le modèle d'activité. Voici donc les diagrammes de cas d'utilisation correspondant à chacunes des étapes clefs de la gestion des contrats de maintenance chez SPIE.
 
 \begin {center}
@@ -372,42 +378,51 @@ Il est cependant utile d'établir des diagrammes de cas d'utilisation afin de d�
 
 Les processus détaillés dans les documents annexes fonctionnent le plus souvent en parallèle et sur des applications informatiques différentes. Il en résulte que souvent, les différentes unités organisationnelles ne sont pas en accord sur certains points. Le but principal de cette étude est donc de regrouper l'ensemble des procédures de gestion des contrats de maintenance au sein d'un même système d'information ou chaque unité organisationnelle aurait son rôle. Cette interface unique va ainsi permettre de créer un référentiel commun de travail entre toutes les équipes qui gravitent autour du domaine d'expertise maintenance. 
 
-D'autres part, si l'on regarde plus précisément le processus global de gestion des contrats de maintenance, ce qu'il est important d'améliorer est sans nul doute le fait de pouvoir réutiliser l'expérience acquise par SPIE lors de la réalisation d'anciens contrats de maintenance. Cette expérience doit pouvoir être réutilisée dans toute les étapes du cycle de vie du contrat de maintenance, de la réponse à l'appel d'offre jusqu'a la rélisation technique à proprement parler.
+D'autres part, si l'on regarde plus précisément le processus global de gestion des contrats de maintenance, ce qu'il est important d'améliorer est sans nul doute le fait de pouvoir réutiliser l'expérience acquise par SPIE lors de la réalisation de contrats de maintenance antérieurs. Cette expérience doit pouvoir être réutilisée dans toute les étapes du cycle de vie du contrat de maintenance, de la réponse à l'appel d'offre jusqu'à la réalisation technique à proprement parler.
 
 \subsection {Les domaines d'application}
+
 Voici les domaines d'applications des axes de progrès, pour plus de détails, vous pouvez vous référer aux diagrammes Aris présentant les modifications des processus métiers.
+
 \begin{itemize}
 \item La gestion de l'appel d'offre : consultation de la base de données à deux niveaux : tout d'abord pour l'étude de faisabilité technique, cette consultation pourra permettre de savoir si ce qui est demandé dans l'appel d'offre a déjà été réalisé par SPIE ou si cela paraît techniquement faisable au vue des contrats de maintenance déjà réalisés par l'entreprise. Ensuite, pour le chiffrage de la réponse à l'appel d'offre, il est important de prendre en compte les montants des contrats précédent. Ainsi, si l'on trouve des contrats similaires à celui que l'on est en train d'établir, il peut être intéressant de savoir quel a été son prix.
-\item La mobilisation des ressources humaines : lorsque le contrat a été validé et signé par les deux parties il est important de mobiliser les bons techniciens. Notre système permettra donc de recommander des techniciens pour telle ou telle prestation de maintenance en fonction de son expérience sur ce domaine. Ceci permettra alors de laisser un technicien dans son domaine de compétence. De même ce système permettra d'envoyer toujours le même groupe de technicien pour un contrat donné.
-\item La réalisation de la prestation de maintenance : s'il s'avère que l'on doive changer de technicien pour un contrat, il est nécessaire que les interventions déjà effectuées soient documentées. Ainsi après chaque intervention de la part d'un technicien, celui-ci devra remplir la base de données en conseil et en mots clefs.
+\item La mobilisation des ressources humaines : lorsque le contrat a été validé et signé par les deux parties il est important de mobiliser les bons techniciens. Notre système permettra donc de recommander des techniciens pour telle ou telle prestation de maintenance en fonction de leur expérience dans le domaine concerné. Ceci permettra alors de laisser un technicien dans son domaine de compétence. De même ce système permettra d'envoyer toujours le même groupe de techniciens pour un contrat donné.
+\item La réalisation de la prestation de maintenance : s'il s'avère que l'on doive changer de technicien pour un contrat, il est nécessaire que les interventions déjà effectuées soient documentées. Ainsi après chaque intervention de la part d'un technicien, celui-ci devra remplir la base de données de conseils et de mots-clés.
 \end{itemize}
 
-\subsection {concepts généraux à mettre en place}
+\subsection {Concepts généraux à mettre en place}
+
 \begin{itemize}
 \item Base de données : vis à vis de la récupération des informations liées à chaque contrat il s'agit de mettre en place une base de données qui permette de faire la jonction entre le contrat en lui même et les informations qui le concernent à savoir pour chaque processus des notes de bon/mauvais déroulement, des indications d'éventuels surcoûts, des informations concernant la relation avec le client ou encore sur le déroulement des opérations de maintenance à proprement parler. 
 \item Base de connaissances : pour chaque spécialité de maintenance il sera intéressant de mettre en place des informations dans une base de connaissance afin d'automatiser autant que possible la génération des contrats de maintenance. Cette base de connaissance mettra nécessairement du temps à être utile car elle sa pertinence se base sur le grand nombre d'informations (connaissances) et de méthodes (règles) qu'elle contient.
-\item Mot clefs : à l'image du réseau social twitter il sera nécessaire d'adjoindre des "tags" ou mot clefs à chaque contrat de maintenance. Il sera donc possible ensuite de rechercher des contrats de maintenance par mots clefs.
+\item Mot clefs : à l'image du réseau social twitter il sera nécessaire d'adjoindre des ``tags'' ou mot clefs à chaque contrat de maintenance. Il sera donc possible ensuite de rechercher des contrats de maintenance par mots clefs.
 \item Moteur de recommandations : lors de la création d'un nouveau contrat de maintenance on lui adjoint des mots clefs. Afin d'aider les RA, RAM et techniciens dans le suivi de ce contrat on pourra demander l'affichage des contrats de maintenance les plus proches de celui que l'on est en train de créer. Cette recommandation sera donc une aide précieuse dans l'élaboration du chiffrage du contrat par exemple. Cette recommandation peut de même intervenir auprès du technicien lorsqu'il se rendra sur le site pour effectuer un réparation. Il lui sera en effet conseillé d'emmener tel ou tel outils spécifique ou encore de faire attention à tel ou tel paramètre en particulier.
 \end{itemize}
+
 L'idée sous jacente à la mise en place d'un tel système est de pouvoir capitaliser sur chaque contrat de maintenance et ainsi de pouvoir réutiliser les expériences passée afin de ne pas recommettre les mêmes erreurs ou encore de reproduire les pratiques qui ont menées au succés du contrat de maintenance. Ainsi, plus le système sera fourni en informations et mots clefs plus son utilité se fera sentir. Ce procédé permet aussi de \og poser les impressions sur le papier \fg et ainsi de pouvoir garder l'information de manière claire et précise.
 
 
 Voici les informations qu'il faudra fournir à la base de donnée pour chaque acteur : 
+
 \begin{itemize}
 \item Le Responsable d'Affaire : A la création du contrat de maintenance dans la base de données il sera chargé (son groupe de travail) de remplir les informations et mots clefs directement liées à l'initialisation du contrat. Lors du chiffrage de l'appel d'offre, le RA devra de même renseigner les prix auxquels il a chiffrer le contrat de maintenance.
 \item Le Technicien : Avant l'intervention : se renseigner via la base de connaissances sur les spécificités de l'intervention qu'il va mener. En se renseignant via l'interface Web il pourra ainsi éventuellement se rendre compte qu'un outil spécifique est nécessaire ou que ce type d'opération va prendre plus de temps que prévu.
 Après l'intervention : Ecrire son bilan d'intervention via l'interface de la base de données. Ce bilan permettra alors de renseigner les prochains intervenants sur ce type d'intervention. Ceci permet donc d'enrichir la base de données via le rapport de prise en charge des agents de maintenance.
 \item Le Client : L'équipe en charge du contrat devra densifié la remise de rapports au client afin d'assurer un meilleur service. La rédaction de ces rapports sera grandement facilitée grâce aux mots clefs remplis pour chaque projet. D'autre part, le client pourra être lui aussi tenu si il le souhaite de rédiger un rapport de satisfaction concernant le travail effectué dans le cadre du contrat de maintenance. Ce rapport sera lui aussi ajouté au contenu de la base de données à l'issue de la phase de recette.
 \end{itemize}
+
 Toutes ces informations devront être stockées sur un portail ou chaque intervenant du contrat de maintenance pourra aller se référer rapidement.
 
 \subsection{Changement à apporter à l'existant}
+
 Vis à vis du processus aujourd'hui en place pour la gestion de contrats de maintenance, des changements sont à prévoir dans l'organisation du travail. Un effort conséquent de rédaction est à faire si l'on veut que le système de recommandation soit performant. Une période de formation que nous estimons relativement courte sera nécessaire afin de familiariser les différents acteurs à l'utilisation de la base de données (via une interface web personalisée). Pour que la mise en place d'un tel système soit concluante, il faut que celle-ci ne fasse pas perdre un temps trop important par rapport à son utilité. Les RA et RAM seront donc les éléments motivateurs de la mise en place du sytème de recommandations.
 
 A priori de nouveaux postes de travail ne sont pas à prévoir suite à la mise en place de la \og base de données intelligente \fg (voir paragraphe suivant).
 
 \subsection{Capitalisation des expériences}
+
 Nous distinguons deux manières principales de pouvoir tirer des bonnes pratiques de ce système :
+
 \begin{itemize}
 \item Consultation de la base de données : cette idée est exposée dans les paragraphes précédents, elle permet aux acteurs du projet de prendre connaissance de ce qui s'est déjà passé pour la gestion des contrats de maintenance chez SPIE
 \item Amélioration de la gestion des contrats de maintenance : il s'agirait, dans ce cas, de créer un poste de travail (qui pourra être temporaire) et qui sera chargé d'analyser plus finement les raisons de l'échec ou de la réussite d'un projet. Cette ressource aurait donc comme objectif de tirer des enseignements des informations fournis par la base de données afin d'améliorer le processus de gestion des contrats en lui même. Cette ressource peut-être personifiée comme un consultant en processus métier. Il est évident que son intervention sera judicieuse si la base de données contient assez d'informations sur les contrats précédents.Cette ressource pourra participer à la rédaction d'un manuel de management applicable aux activités de maintenance.
