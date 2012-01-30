@@ -1,0 +1,73 @@
+\relax 
+\catcode`:\active
+\catcode`;\active
+\catcode`!\active
+\catcode`?\active
+\select@language{french}
+\@writefile{toc}{\select@language{french}}
+\@writefile{lof}{\select@language{french}}
+\@writefile{lot}{\select@language{french}}
+\@writefile{toc}{\contentsline {part}{I\hspace  {1em}Expression des besoins}{2}}
+\@writefile{toc}{\contentsline {section}{\numberline {1}Etude de l'existant}{2}}
+\@writefile{toc}{\contentsline {subsection}{\numberline {1.1}Activit\IeC {\'e}s de SPIE}{2}}
+<<<<<<< HEAD
+\@writefile{toc}{\contentsline {paragraph}{Les intervenants}{5}}
+\@writefile{toc}{\contentsline {paragraph}{Le contrat}{6}}
+\@writefile{toc}{\contentsline {subsection}{\numberline {1.2}Processus de gestion de contrat de maintenance}{6}}
+\@writefile{toc}{\contentsline {subsubsection}{\numberline {1.2.1}Offre et revue d\IeC {\textquoteright }offre}{6}}
+\@writefile{toc}{\contentsline {subsubsection}{\numberline {1.2.2}N\IeC {\'e}gociation client}{7}}
+\@writefile{toc}{\contentsline {subsubsection}{\numberline {1.2.3}Revue de commande}{7}}
+\@writefile{toc}{\contentsline {subsubsection}{\numberline {1.2.4}Lancement des prestations de service et travaux}{7}}
+\@writefile{toc}{\contentsline {subsubsection}{\numberline {1.2.5}R\IeC {\'e}alisation des prestations de maintenance}{8}}
+\@writefile{toc}{\contentsline {subsubsection}{\numberline {1.2.6}\IeC {\'E}volution du contrat}{8}}
+\@writefile{toc}{\contentsline {subsubsection}{\numberline {1.2.7}Solde de l\IeC {\textquoteright }affaire et du contrat}{8}}
+\@writefile{toc}{\contentsline {subsection}{\numberline {1.3}Applications utilis\IeC {\'e}es chez SPIE}{8}}
+\@writefile{toc}{\contentsline {section}{\numberline {2}Benchmarking}{9}}
+\@writefile{toc}{\contentsline {subsection}{\numberline {2.1}MySAP}{9}}
+\@writefile{toc}{\contentsline {subsection}{\numberline {2.2}SAP Crystal Solutions}{9}}
+\@writefile{toc}{\contentsline {subsection}{\numberline {2.3}SAP BusinessObjects BI OnDemand}{9}}
+\@writefile{toc}{\contentsline {subsection}{\numberline {2.4}SAP BusinessObjects Edge Solutions}{10}}
+\@writefile{toc}{\contentsline {subsection}{\numberline {2.5}Concurrence}{10}}
+\@writefile{toc}{\contentsline {subsection}{\numberline {2.6}Autres solutions logicielles}{10}}
+\@writefile{toc}{\contentsline {section}{\numberline {3}Elaboration de la cible fonctionnelle}{11}}
+\@writefile{toc}{\contentsline {subsection}{\numberline {3.1}Definition du Modele d'Activit\IeC {\'e}}{11}}
+\@writefile{toc}{\contentsline {subsection}{\numberline {3.2}Mod\IeC {\`e}le Conceptuel des traitement}{12}}
+\@writefile{toc}{\contentsline {subsection}{\numberline {3.3}Diagramme de cas d'utilisation de l'existant}{13}}
+\@writefile{toc}{\contentsline {subsection}{\numberline {3.4}Diagrammes de processus contenant les axes d'am\IeC {\'e}lioration}{18}}
+\@writefile{toc}{\contentsline {section}{\numberline {4}D\IeC {\'e}finition des axes de progr\IeC {\`e}s}{18}}
+\@writefile{toc}{\contentsline {subsection}{\numberline {4.1}Les domaines d'application}{19}}
+\@writefile{toc}{\contentsline {subsection}{\numberline {4.2}concepts g\IeC {\'e}n\IeC {\'e}raux \IeC {\`a} mettre en place}{19}}
+\@writefile{toc}{\contentsline {subsection}{\numberline {4.3}Changement \IeC {\`a} apporter \IeC {\`a} l'existant}{20}}
+\@writefile{toc}{\contentsline {subsection}{\numberline {4.4}Capitalisation des exp\IeC {\'e}riences}{20}}
+=======
+\@writefile{toc}{\contentsline {paragraph}{Les intervenants}{4}}
+\@writefile{toc}{\contentsline {paragraph}{Le contrat}{4}}
+\@writefile{toc}{\contentsline {subsection}{\numberline {1.2}Processus de gestion de contrat de maintenance}{5}}
+\@writefile{toc}{\contentsline {subsubsection}{\numberline {1.2.1}Offre et revue d\IeC {\textquoteright }offre}{5}}
+\@writefile{toc}{\contentsline {subsubsection}{\numberline {1.2.2}N\IeC {\'e}gociation client}{6}}
+\@writefile{toc}{\contentsline {subsubsection}{\numberline {1.2.3}Revue de commande}{6}}
+\@writefile{toc}{\contentsline {subsubsection}{\numberline {1.2.4}Lancement des prestations de service et travaux}{6}}
+\@writefile{toc}{\contentsline {subsubsection}{\numberline {1.2.5}R\IeC {\'e}alisation des prestations de maintenance}{7}}
+\@writefile{toc}{\contentsline {subsubsection}{\numberline {1.2.6}\IeC {\'E}volution du contrat}{7}}
+\@writefile{toc}{\contentsline {subsubsection}{\numberline {1.2.7}Solde de l\IeC {\textquoteright }affaire et du contrat}{7}}
+\@writefile{toc}{\contentsline {subsubsection}{\numberline {1.2.8}Fin de processus affaire maintenance et service}{7}}
+\@writefile{toc}{\contentsline {subsection}{\numberline {1.3}Applications utilis\IeC {\'e}es chez SPIE}{7}}
+\@writefile{toc}{\contentsline {paragraph}{Titre \IeC {\`a} mettre}{7}}
+\@writefile{toc}{\contentsline {section}{\numberline {2}Benchmarking}{8}}
+\@writefile{toc}{\contentsline {subsection}{\numberline {2.1}MySAP}{8}}
+\@writefile{toc}{\contentsline {subsection}{\numberline {2.2}SAP Crystal Solutions}{8}}
+\@writefile{toc}{\contentsline {subsection}{\numberline {2.3}SAP BusinessObjects BI OnDemand}{8}}
+\@writefile{toc}{\contentsline {subsection}{\numberline {2.4}SAP BusinessObjects Edge Solutions}{9}}
+\@writefile{toc}{\contentsline {subsection}{\numberline {2.5}Concurrence}{9}}
+\@writefile{toc}{\contentsline {subsection}{\numberline {2.6}Autres solutions logicielles}{9}}
+\@writefile{toc}{\contentsline {section}{\numberline {3}Elaboration de la cible fonctionnelle}{10}}
+\@writefile{toc}{\contentsline {subsection}{\numberline {3.1}Definition du Modele d'Activit\IeC {\'e}}{10}}
+\@writefile{toc}{\contentsline {subsection}{\numberline {3.2}Mod\IeC {\`e}le Conceptuel des traitement}{11}}
+\@writefile{toc}{\contentsline {subsection}{\numberline {3.3}Diagramme de cas d'utilisation de l'existant}{11}}
+\@writefile{toc}{\contentsline {subsection}{\numberline {3.4}Diagrammes de processus contenant les axes d'am\IeC {\'e}lioration}{17}}
+\@writefile{toc}{\contentsline {section}{\numberline {4}D\IeC {\'e}finition des axes de progr\IeC {\`e}s}{17}}
+\@writefile{toc}{\contentsline {subsection}{\numberline {4.1}Les domaines d'application}{17}}
+\@writefile{toc}{\contentsline {subsection}{\numberline {4.2}concepts g\IeC {\'e}n\IeC {\'e}raux \IeC {\`a} mettre en place}{17}}
+\@writefile{toc}{\contentsline {subsection}{\numberline {4.3}Changement \IeC {\`a} apporter \IeC {\`a} l'existant}{18}}
+\@writefile{toc}{\contentsline {subsection}{\numberline {4.4}Capitalisation des exp\IeC {\'e}riences}{18}}
+>>>>>>> c6afa5c497c613df6abb33ea296626069159b724
