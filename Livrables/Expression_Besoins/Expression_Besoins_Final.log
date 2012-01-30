@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.1415926-2.3-1.40.12 (TeX Live 2011) (format=pdflatex 2012.1.16)  29 JAN 2012 15:28
+This is pdfTeX, Version 3.1415926-2.3-1.40.12 (TeX Live 2011) (format=pdflatex 2012.1.16)  30 JAN 2012 08:04
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -602,7 +602,7 @@ File: uni-1.def 2004/10/17 UCS: Unicode data U+0100..U+01FF
 File: png/DiagrammeModeleActivite.png Graphic file (type png)
 
 <use png/DiagrammeModeleActivite.png>
-Package pdftex.def Info: png/DiagrammeModeleActivite.png used on input line 344
+Package pdftex.def Info: png/DiagrammeModeleActivite.png used on input line 347
 .
 (pdftex.def)             Requested size: 483.69687pt x 299.49405pt.
  [10]
@@ -610,21 +610,21 @@ Package pdftex.def Info: png/DiagrammeModeleActivite.png used on input line 344
 File: png/DCUAppelOffre.png Graphic file (type png)
 
 <use png/DCUAppelOffre.png>
-Package pdftex.def Info: png/DCUAppelOffre.png used on input line 363.
+Package pdftex.def Info: png/DCUAppelOffre.png used on input line 366.
 (pdftex.def)             Requested size: 483.69687pt x 383.51094pt.
  [11 <./png/DiagrammeModeleActivite.png>]
 <png/DCUGererCommande.png, id=58, 697.60625pt x 557.08125pt>
 File: png/DCUGererCommande.png Graphic file (type png)
 
 <use png/DCUGererCommande.png>
-Package pdftex.def Info: png/DCUGererCommande.png used on input line 367.
+Package pdftex.def Info: png/DCUGererCommande.png used on input line 370.
 (pdftex.def)             Requested size: 483.69687pt x 386.26506pt.
  [12 <./png/DCUAppelOffre.png>]
 <png/DCUGererActiMaintenance.png, id=64, 692.5875pt x 540.0175pt>
 File: png/DCUGererActiMaintenance.png Graphic file (type png)
 
 <use png/DCUGererActiMaintenance.png>
-Package pdftex.def Info: png/DCUGererActiMaintenance.png used on input line 371
+Package pdftex.def Info: png/DCUGererActiMaintenance.png used on input line 374
 .
 (pdftex.def)             Requested size: 483.69687pt x 377.15271pt.
  [13 <./png/DCUGererCommande.png>]
@@ -633,22 +633,22 @@ File: png/DCUGererPrestationService.png Graphic file (type png)
 
 <use png/DCUGererPrestationService.png>
 Package pdftex.def Info: png/DCUGererPrestationService.png used on input line 3
-75.
+78.
 (pdftex.def)             Requested size: 483.69687pt x 422.71948pt.
  [14 <./png/DCUGererActiMaintenance.png>] <png/DCUGererEvolutionContrat.png, id
 =74, 692.5875pt x 469.755pt>
 File: png/DCUGererEvolutionContrat.png Graphic file (type png)
 
 <use png/DCUGererEvolutionContrat.png>
-Package pdftex.def Info: png/DCUGererEvolutionContrat.png used on input line 37
-9.
+Package pdftex.def Info: png/DCUGererEvolutionContrat.png used on input line 38
+2.
 (pdftex.def)             Requested size: 483.69687pt x 328.0808pt.
  [15 <./png/DCUGererPrestationService.png>] <png/DCUGererFacturation.png, id=79
 , 701.62125pt x 540.0175pt>
 File: png/DCUGererFacturation.png Graphic file (type png)
 
 <use png/DCUGererFacturation.png>
-Package pdftex.def Info: png/DCUGererFacturation.png used on input line 383.
+Package pdftex.def Info: png/DCUGererFacturation.png used on input line 386.
 (pdftex.def)             Requested size: 483.69687pt x 372.29935pt.
  [16 <./png/DCUGererEvolutionContrat.png> <./png/DCUGererFacturation.png>] [17]
 ) [18] (./Expression_Besoins_Final.aux) ) 
@@ -670,7 +670,7 @@ ve/2011/texmf-dist/fonts/type1/public/lm/lmr12.pfb></usr/local/texlive/2011/tex
 mf-dist/fonts/type1/public/lm/lmr17.pfb></usr/local/texlive/2011/texmf-dist/fon
 ts/type1/public/lm/lmr7.pfb></usr/local/texlive/2011/texmf-dist/fonts/type1/pub
 lic/lm/lmr8.pfb>
-Output written on Expression_Besoins_Final.pdf (19 pages, 727025 bytes).
+Output written on Expression_Besoins_Final.pdf (19 pages, 728791 bytes).
 PDF statistics:
  123 PDF objects out of 1000 (max. 8388607)
  73 compressed objects within 1 object stream
