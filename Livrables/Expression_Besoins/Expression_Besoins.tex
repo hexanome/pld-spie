@@ -197,23 +197,8 @@ Plusieurs applications sont utilisées par SPIE pour la gestion des contrats :
 \item SUPRA (gestion des affaires) : création des nouveaux contrats de maintenance.
 \end{itemize}
 
-%TODO
-\paragraph{Titre à mettre}
-
-\begin{itemize}
-\item L’objectif : l’amélioration du processus par un meilleur suivi.
-\item La main d’œuvre et les fournitures hors forfait.
-\item Les indicateurs de performance.
-\item Organisationnelle : nombre d’interventions, durée (GTI, GTR), profil des intervenants, etc.
-\item Technique : nature des travaux, moyens immobilisés, indisponibilité des installations, etc.
-\item Économique : volume, marge, travaux induits (devis réalisés, etc.).
-\item Les retours d’expérience.
-\item Base de connaissance/métier/type de contrat.
-\item Identification des risques techniques/financiers/organisationnels.
-\end{itemize}
-
 % TODO: Reformuler.
-On distingue la gestion des contrats de maintenance de la gestion des contrats de services, description des deux mais on se focalise sur les contrats de maintenance :
+On distingue la gestion des contrats de maintenance de la gestion des contrats de services :
 
 \begin{itemize}
 \item La gestion des contrats de maintenance se focalise sur la correction et la prévention systématique et prévisionnelle des travaux. Elle regroupe souvent aussi des fonctionnalités ouvertes à des utilisateurs au-delà du service de maintenance, comme les demandes d’interventions permettant aux personnes autorisées de signaler une anomalie à prendre en compte dans la maintenance.
@@ -297,8 +282,13 @@ L’objectif est de comparer d’autres solutions logicielles existantes, spéci
 
 On a sélectionné plusieurs progiciels spécialisé dans la gestion de maintenance reconnu et utilisé par de nombreuses entreprise. Nos informations proviennent de leur site web:
 
-Carl Software (http://www.carl-software.fr)
-Optimaint (http://www.europrint-gmao.fr)
+Carl Software\footnotemark
+Optimaint\footnotemark
+
+% Site internet : http://www.carl-software.fr
+\footnotetext{Site internet Carl Software : http://j.mp/carl-software}
+% Site internet : http://www.europrint-gmao.fr
+\footnotetext{Site internet Optimaint : http://j.mp/europrint}
 
 Malheureusement, ces sites ne sont que des vitrines et peu d’informations sur le fond sont disponibles. De même que pour le benchmarking de la concurrence, on ne pourra pas espérer apprendre de bonnes pratiques, ni comment sont gérés les processus. On se contentera de dégager les fonctionnalités communes et importantes pour la gestion de la maintenance.
 
@@ -376,6 +366,7 @@ Il est cependant utile d'établir des diagrammes de cas d'utilisation afin de d�
 \includegraphics[width=\textwidth]{png/DCUGererFacturation.png}
 \end {center}
 
+\subsection{Diagrammes de processus contenant les axes d'amélioration}
 
 \section{Définition des axes de progrès}
 
@@ -394,6 +385,7 @@ Voici les domaines d'applications des axes de progrès, pour plus de détails, v
 \subsection {concepts généraux à mettre en place}
 \begin{itemize}
 \item Base de données : vis à vis de la récupération des informations liées à chaque contrat il s'agit de mettre en place une base de données qui permette de faire la jonction entre le contrat en lui même et les informations qui le concernent à savoir pour chaque processus des notes de bon/mauvais déroulement, des indications d'éventuels surcoûts, des informations concernant la relation avec le client ou encore sur le déroulement des opérations de maintenance à proprement parler. 
+\item Base de connaissances : pour chaque spécialité de maintenance il sera intéressant de mettre en place des informations dans une base de connaissance afin d'automatiser autant que possible la génération des contrats de maintenance. Cette base de connaissance mettra nécessairement du temps à être utile car elle sa pertinence se base sur le grand nombre d'informations (connaissances) et de méthodes (règles) qu'elle contient.
 \item Mot clefs : à l'image du réseau social twitter il sera nécessaire d'adjoindre des "tags" ou mot clefs à chaque contrat de maintenance. Il sera donc possible ensuite de rechercher des contrats de maintenance par mots clefs.
 \item Moteur de recommandations : lors de la création d'un nouveau contrat de maintenance on lui adjoint des mots clefs. Afin d'aider les RA, RAM et techniciens dans le suivi de ce contrat on pourra demander l'affichage des contrats de maintenance les plus proches de celui que l'on est en train de créer. Cette recommandation sera donc une aide précieuse dans l'élaboration du chiffrage du contrat par exemple. Cette recommandation peut de même intervenir auprès du technicien lorsqu'il se rendra sur le site pour effectuer un réparation. Il lui sera en effet conseillé d'emmener tel ou tel outils spécifique ou encore de faire attention à tel ou tel paramètre en particulier.
 \end{itemize}
@@ -404,7 +396,8 @@ Voici les informations qu'il faudra fournir à la base de donnée pour chaque ac
 \begin{itemize}
 \item Le Responsable d'Affaire : A la création du contrat de maintenance dans la base de données il sera chargé (son groupe de travail) de remplir les informations et mots clefs directement liées à l'initialisation du contrat. Lors du chiffrage de l'appel d'offre, le RA devra de même renseigner les prix auxquels il a chiffrer le contrat de maintenance.
 \item Le Technicien : Avant l'intervention : se renseigner via la base de connaissances sur les spécificités de l'intervention qu'il va mener. En se renseignant via l'interface Web il pourra ainsi éventuellement se rendre compte qu'un outil spécifique est nécessaire ou que ce type d'opération va prendre plus de temps que prévu.
-Après l'intervention : Ecrire son bilan d'intervention via l'interface de la base de données. Ce bilan permettra alors de renseigner les prochains intervenants sur ce type d'intervention. Ceci permet donc d'enrichir la base de données via le témoignage des agents de maintenance.
+Après l'intervention : Ecrire son bilan d'intervention via l'interface de la base de données. Ce bilan permettra alors de renseigner les prochains intervenants sur ce type d'intervention. Ceci permet donc d'enrichir la base de données via le rapport de prise en charge des agents de maintenance.
+\item Le Client : L'équipe en charge du contrat devra densifié la remise de rapports au client afin d'assurer un meilleur service. La rédaction de ces rapports sera grandement facilitée grâce aux mots clefs remplis pour chaque projet. D'autre part, le client pourra être lui aussi tenu si il le souhaite de rédiger un rapport de satisfaction concernant le travail effectué dans le cadre du contrat de maintenance. Ce rapport sera lui aussi ajouté au contenu de la base de données à l'issue de la phase de recette.
 \end{itemize}
 Toutes ces informations devront être stockées sur un portail ou chaque intervenant du contrat de maintenance pourra aller se référer rapidement.
 
@@ -417,15 +410,11 @@ A priori de nouveaux postes de travail ne sont pas à prévoir suite à la mise 
 Nous distinguons deux manières principales de pouvoir tirer des bonnes pratiques de ce système :
 \begin{itemize}
 \item Consultation de la base de données : cette idée est exposée dans les paragraphes précédents, elle permet aux acteurs du projet de prendre connaissance de ce qui s'est déjà passé pour la gestion des contrats de maintenance chez SPIE
-\item Amélioration de la gestion des contrats de maintenance : il s'agirait, dans ce cas, de créer un poste de travail (qui pourra être temporaire) et qui sera chargé d'analyser plus finement les raisons de l'échec ou de la réussite d'un projet. Cette ressource aurait donc comme objectif de tirer des enseignements des informations fournis par la base de données afin d'améliorer le processus de gestion des contrats en lui même. Cette ressource peut-être personifiée comme un consultant en processus métier. Il est évident que son intervention sera judicieuse si la base de données contient assez d'informations sur les contrats précédents.
+\item Amélioration de la gestion des contrats de maintenance : il s'agirait, dans ce cas, de créer un poste de travail (qui pourra être temporaire) et qui sera chargé d'analyser plus finement les raisons de l'échec ou de la réussite d'un projet. Cette ressource aurait donc comme objectif de tirer des enseignements des informations fournis par la base de données afin d'améliorer le processus de gestion des contrats en lui même. Cette ressource peut-être personifiée comme un consultant en processus métier. Il est évident que son intervention sera judicieuse si la base de données contient assez d'informations sur les contrats précédents.Cette ressource pourra participer à la rédaction d'un manuel de management applicable aux activités de maintenance.
+
+\\ D'autre part, le fait de devoir commenter chaque phase du projet force chaque acteur à respecter le déroulement des phases assez scrupuleusement et permet ainsi à chacun de resituer le contexte du projet. Plus qu'une activité de traçage des activités concernant le projet, cela permet d'avoir une vue d'ensemble rapide de l'état de santé du contrat de maintenance. C'est donc un vrai mécanisme de suivi qui se met en place.
+
+
+Ce receuil d'informations permettra dans le même temps d'effectuer une analyse des risques tout au long du projet. En prenant comme référentiel les contrats qui se sont déjà déroulés avec succès on pourra évaluer le risque en temps réel pour chaque phase. Le rapport de risque sera lui même ajouté comme \og commentaire \fg du contrat de maintenance et permettra aussi d'enrichir la base de données.
+
 \end{itemize}
-
-
-
-\section{Diagrammes de processus contenant les axes d'amélioration}
-%Mettre ici les diagrammes réalisés avec aris et contenant les schémas des nouveaux processus qui vont être intégrés pour la gestion des contrats de maintenance.
-
-
-
-
-

@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.1415926-1.40.11 (MiKTeX 2.9) (preloaded format=pdflatex 2011.4.27)  30 JAN 2012 08:34
+This is pdfTeX, Version 3.1415926-1.40.11 (MiKTeX 2.9) (preloaded format=pdflatex 2011.4.27)  30 JAN 2012 10:02
 entering extended mode
 **Expression_Besoins_Final.tex
 
@@ -527,79 +527,209 @@ sion_Besoins.tex"
 (D:\Soft2\Latex\USBTeX-1.6\programs\MiKTeX_2.9\tex\latex\unicode\data\uni-32.de
 f
 File: uni-32.def 2004/10/17 UCS: Unicode data U+2000..U+20FF
-) <png/TerritoireSPIE.jpg, id=14, 567.11874pt x 401.5pt>
-File: png/TerritoireSPIE.jpg Graphic file (type jpg)
+)
 
-<use png/TerritoireSPIE.jpg> [2] [3 <D:/Visual Studio 2010/Insa/H4111/PLD-SPIE/
-Livrables/Expression_Besoins/png/TerritoireSPIE.jpg>]
-<png/DiagrammeOrganisationnelSPIE.png, id=24, 1121.18875pt x 280.04625pt>
-File: png/DiagrammeOrganisationnelSPIE.png Graphic file (type png)
+LaTeX Warning: File `png/TerritoireSPIE.jpg' not found on input line 36.
 
-<use png/DiagrammeOrganisationnelSPIE.png>
-<png/SimplificationProcessusDeMaintenanceSPIE1.png, id=26, 1039.885pt x 184.69p
+
+! Package pdftex.def Error: File `png/TerritoireSPIE.jpg' not found.
+
+See the pdftex.def package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.36 ...[width=\textwidth]{png/TerritoireSPIE.jpg}
+                                                  
+Using draft setting for this image.
+Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+LaTeX Font Info:    Try loading font information for T1+lmtt on input line 36.
+(D:\Soft2\Latex\USBTeX-1.6\programs\MiKTeX_2.9\tex\latex\lm\t1lmtt.fd
+File: t1lmtt.fd 2009/10/30 v1.6 Font defs for Latin Modern
+) [2]
+[3]
+
+LaTeX Warning: File `png/DiagrammeOrganisationnelSPIE.png' not found on input l
+ine 84.
+
+
+! Package pdftex.def Error: File `png/DiagrammeOrganisationnelSPIE.png' not fou
+nd.
+
+See the pdftex.def package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.84 ...dth]{png/DiagrammeOrganisationnelSPIE.png}
+                                                  
+Using draft setting for this image.
+Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+[4] [5]
+<png/SimplificationProcessusDeMaintenanceSPIE1.png, id=30, 1039.885pt x 184.69p
 t>
 File: png/SimplificationProcessusDeMaintenanceSPIE1.png Graphic file (type png)
 
  <use png/SimplificationProcessusDeMaintenanceSPIE1.png>
-<png/SimplificationProcessusDeMaintenanceSPIE2.png, id=27, 779.91376pt x 138.51
+<png/SimplificationProcessusDeMaintenanceSPIE2.png, id=32, 779.91376pt x 138.51
 75pt>
 File: png/SimplificationProcessusDeMaintenanceSPIE2.png Graphic file (type png)
 
- <use png/SimplificationProcessusDeMaintenanceSPIE2.png> [4 <D:/Visual Studio 2
-010/Insa/H4111/PLD-SPIE/Livrables/Expression_Besoins/png/DiagrammeOrganisationn
-elSPIE.png>] [5 <D:/Visual Studio 2010/Insa/H4111/PLD-SPIE/Livrables/Expression
-_Besoins/png/SimplificationProcessusDeMaintenanceSPIE1.png> <D:/Visual Studio 2
+ <use png/SimplificationProcessusDeMaintenanceSPIE2.png> [6 <D:/Visual Studio 2
 010/Insa/H4111/PLD-SPIE/Livrables/Expression_Besoins/png/SimplificationProcessu
-sDeMaintenanceSPIE2.png>] [6] [7]
-(D:\Soft2\Latex\USBTeX-1.6\programs\MiKTeX_2.9\tex\latex\unicode\data\uni-1.def
-File: uni-1.def 2004/10/17 UCS: Unicode data U+0100..U+01FF
-) [8] [9] [10]
-<png/DiagrammeModeleActivite.png, id=53, 1014.79124pt x 628.3475pt>
-File: png/DiagrammeModeleActivite.png Graphic file (type png)
+sDeMaintenanceSPIE1.png> <D:/Visual Studio 2010/Insa/H4111/PLD-SPIE/Livrables/E
+xpression_Besoins/png/SimplificationProcessusDeMaintenanceSPIE2.png>]
+[7] [8] [9] [10]
 
-<use png/DiagrammeModeleActivite.png>
-<png/DCUAppelOffre.png, id=54, 702.625pt x 557.08125pt>
-File: png/DCUAppelOffre.png Graphic file (type png)
+LaTeX Warning: File `png/DiagrammeModeleActivite.png' not found on input line 3
+27.
 
-<use png/DCUAppelOffre.png> [11 <D:/Visual Studio 2010/Insa/H4111/PLD-SPIE/Livr
-ables/Expression_Besoins/png/DiagrammeModeleActivite.png>]
-<png/DCUGererCommande.png, id=59, 697.60625pt x 557.08125pt>
-File: png/DCUGererCommande.png Graphic file (type png)
 
-<use png/DCUGererCommande.png> [12 <D:/Visual Studio 2010/Insa/H4111/PLD-SPIE/L
-ivrables/Expression_Besoins/png/DCUAppelOffre.png>]
-<png/DCUGererActiMaintenance.png, id=65, 692.5875pt x 540.0175pt>
-File: png/DCUGererActiMaintenance.png Graphic file (type png)
+! Package pdftex.def Error: File `png/DiagrammeModeleActivite.png' not found.
 
-<use png/DCUGererActiMaintenance.png> [13 <D:/Visual Studio 2010/Insa/H4111/PLD
--SPIE/Livrables/Expression_Besoins/png/DCUGererCommande.png>]
-<png/DCUGererPrestationService.png, id=70, 692.5875pt x 605.26125pt>
-File: png/DCUGererPrestationService.png Graphic file (type png)
+See the pdftex.def package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.327 ...xtwidth]{png/DiagrammeModeleActivite.png}
+                                                  
+Using draft setting for this image.
+Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
 
-<use png/DCUGererPrestationService.png> [14 <D:/Visual Studio 2010/Insa/H4111/P
-LD-SPIE/Livrables/Expression_Besoins/png/DCUGererActiMaintenance.png>]
-<png/DCUGererEvolutionContrat.png, id=75, 692.5875pt x 469.755pt>
-File: png/DCUGererEvolutionContrat.png Graphic file (type png)
+[11] [12]
 
-<use png/DCUGererEvolutionContrat.png> [15 <D:/Visual Studio 2010/Insa/H4111/PL
-D-SPIE/Livrables/Expression_Besoins/png/DCUGererPrestationService.png>]
-<png/DCUGererFacturation.png, id=80, 701.62125pt x 540.0175pt>
-File: png/DCUGererFacturation.png Graphic file (type png)
+LaTeX Warning: File `png/DCUAppelOffre.png' not found on input line 346.
 
-<use png/DCUGererFacturation.png> [16 <D:/Visual Studio 2010/Insa/H4111/PLD-SPI
-E/Livrables/Expression_Besoins/png/DCUGererEvolutionContrat.png> <D:/Visual Stu
-dio 2010/Insa/H4111/PLD-SPIE/Livrables/Expression_Besoins/png/DCUGererFacturati
-on.png>] [17]) [18]
+
+! Package pdftex.def Error: File `png/DCUAppelOffre.png' not found.
+
+See the pdftex.def package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.346 ...[width=\textwidth]{png/DCUAppelOffre.png}
+                                                  
+Using draft setting for this image.
+Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+
+LaTeX Warning: File `png/DCUGererCommande.png' not found on input line 350.
+
+
+! Package pdftex.def Error: File `png/DCUGererCommande.png' not found.
+
+See the pdftex.def package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.350 ...dth=\textwidth]{png/DCUGererCommande.png}
+                                                  
+Using draft setting for this image.
+Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+[13]
+
+LaTeX Warning: File `png/DCUGererActiMaintenance.png' not found on input line 3
+54.
+
+
+! Package pdftex.def Error: File `png/DCUGererActiMaintenance.png' not found.
+
+See the pdftex.def package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.354 ...xtwidth]{png/DCUGererActiMaintenance.png}
+                                                  
+Using draft setting for this image.
+Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+[14]
+
+LaTeX Warning: File `png/DCUGererPrestationService.png' not found on input line
+ 358.
+
+
+! Package pdftex.def Error: File `png/DCUGererPrestationService.png' not found.
+
+
+See the pdftex.def package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.358 ...width]{png/DCUGererPrestationService.png}
+                                                  
+Using draft setting for this image.
+Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+[15]
+
+LaTeX Warning: File `png/DCUGererEvolutionContrat.png' not found on input line 
+362.
+
+
+! Package pdftex.def Error: File `png/DCUGererEvolutionContrat.png' not found.
+
+See the pdftex.def package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.362 ...twidth]{png/DCUGererEvolutionContrat.png}
+                                                  
+Using draft setting for this image.
+Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+[16]
+
+LaTeX Warning: File `png/DCUGererFacturation.png' not found on input line 366.
+
+
+! Package pdftex.def Error: File `png/DCUGererFacturation.png' not found.
+
+See the pdftex.def package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.366 ...=\textwidth]{png/DCUGererFacturation.png}
+                                                  
+Using draft setting for this image.
+Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+[17] [18] [19]
+
+! LaTeX Error: There's no line here to end.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.415 \\ D
+          'autre part, le fait de devoir commenter chaque phase du projet fo...
+
+Your command was ignored.
+Type  I <command> <return>  to replace it with another command,
+or  <return>  to continue without it.
+
+) [20]
 ("D:\Visual Studio 2010\Insa\H4111\PLD-SPIE\Livrables\Expression_Besoins\Expres
 sion_Besoins_Final.aux") ) 
 Here is how much of TeX's memory you used:
- 4392 strings out of 494019
- 59436 string characters out of 3128541
- 112283 words of memory out of 3000000
- 7597 multiletter control sequences out of 15000+200000
- 48301 words of font info for 37 fonts, out of 3000000 for 9000
+ 3787 strings out of 494019
+ 52667 string characters out of 3128541
+ 113283 words of memory out of 3000000
+ 6991 multiletter control sequences out of 15000+200000
+ 48620 words of font info for 38 fonts, out of 3000000 for 9000
  714 hyphenation exceptions out of 8191
- 25i,5n,24p,1263b,562s stack positions out of 5000i,500n,10000p,200000b,50000s
+ 25i,5n,24p,1253b,562s stack positions out of 5000i,500n,10000p,200000b,50000s
 {D:/Soft2/Latex/USBTeX-1.6/programs/MiKTeX_2.9/fonts/
 enc/dvips/lm/lm-ec.enc}<D:/Soft2/Latex/USBTeX-1.6/programs/MiKTeX_2.9/fonts/typ
 e1/public/eurosym/feymr10.pfb><D:/Soft2/Latex/USBTeX-1.6/programs/MiKTeX_2.9/fo
@@ -610,10 +740,11 @@ fonts/type1/public/lm/lmcsc10.pfb><D:/Soft2/Latex/USBTeX-1.6/programs/MiKTeX_2.
 9/fonts/type1/public/lm/lmr12.pfb><D:/Soft2/Latex/USBTeX-1.6/programs/MiKTeX_2.
 9/fonts/type1/public/lm/lmr17.pfb><D:/Soft2/Latex/USBTeX-1.6/programs/MiKTeX_2.
 9/fonts/type1/public/lm/lmr7.pfb><D:/Soft2/Latex/USBTeX-1.6/programs/MiKTeX_2.9
-/fonts/type1/public/lm/lmr8.pfb>
-Output written on Expression_Besoins_Final.pdf (19 pages, 727144 bytes).
+/fonts/type1/public/lm/lmr8.pfb><D:/Soft2/Latex/USBTeX-1.6/programs/MiKTeX_2.9/
+fonts/type1/public/lm/lmtt10.pfb>
+Output written on Expression_Besoins_Final.pdf (21 pages, 341717 bytes).
 PDF statistics:
- 123 PDF objects out of 1000 (max. 8388607)
+ 116 PDF objects out of 1000 (max. 8388607)
  0 named destinations out of 1000 (max. 500000)
- 56 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 11 words of extra memory for PDF output out of 10000 (max. 10000000)
 
